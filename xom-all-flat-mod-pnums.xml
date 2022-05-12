@@ -3551,7 +3551,7 @@ cap.
 <lb n="23"/>tah, vꜩilah qazlem, vinaquirem
 <lb n="24"/>ta puch cohaia vi at <rs ana="JUN_RAQAN">huracan</rs>
 <lb n="25"/><rs ana="CH'IPI_KAQULJA">chipa caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>
-<lb n="26"/><rs ana="CH'IPI_NANAWAK">chipina navac</rs> raxa nana vac
+<lb n="26"/><rs ana="CH'IPI_NANAWAK">chipina navac</rs> <rs ana="RAXA_NANAWAK">raxa nana vac</rs>
 <lb n="27"/><rs ana="WOK">voc</rs> <rs ana="JUNAJPU">hunahpu</rs> <rs ana="TEPEW_Q'UKUMATZ">tepeu cucumaꜩ</rs>
 <lb n="28"/><rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">qaholom</rs> <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmu<pc> –</pc>
 <lb n="29"/>cane</rs> <rs ana="IXMUKANE">ratit quih</rs> <rs ana="IXMUKANE">ratit zac</rs> tacha<pc> –</pc>
@@ -3559,7 +3559,7 @@ cap.
 <lb n="31"/>quilonic xeziquinic xazelava<pc> –</pc>
 <lb n="32"/>chin vzaquiric xavi chila que<pc> –</pc>
 <lb n="33"/>mucun vi relebal quih quila va<pc> –</pc>
-<lb n="34"/>chin ri iqoquih nima chu mil <del rend="scribble" instant="false" status="unremarkable">xa</del>
+<lb n="34"/>chin ri <rs ana="IK'OQ'IJ">iqoquih</rs> nima chu mil <del rend="scribble" instant="false" status="unremarkable">xa</del>
 <lb n="35"/>chalaxic quih ꜩihol re vpa cah
 <lb n="36"/>vpavleu vbinibal vinac ꜩac vi
 <lb n="37"/>nac bit xeqha e <rs ana="B'ALAM_KI'TZE'">balam quiꜩe</rs>
