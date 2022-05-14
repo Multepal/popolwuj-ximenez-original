@@ -3721,8 +3721,8 @@ cap.
 <lb n="37"/><note  place="margin-left" anchored="true"><hi rend="handwriting;color:pencil">akavah</hi></note>abah</hi> chiquiya chive chi ꜩonoh
 <lb n="38"/>na chirech <rs ana="TOJIL">tohil</rs> chire na chi<pc> –</pc>
 <lb n="39"/>pe vi chiquiyao cambal ꜫaꜫ x<pc> –</pc>
-<lb n="40"/>qha <rs ana="JUN_WINAQ">ri xibalba</rs> qo vxic queheri
-<lb n="41"/>vxic zoꜩ inzamahel cumal <rs ana="TZ'AQOL">ꜩa<pc> –</pc>
+<lb n="40"/>qha <rs ana="JUN_WINAQ"><rs ana="XIB'ALB'A">ri xibalba</rs></rs> qo vxic queheri
+<lb n="41"/>vxic <rs ana="SOTZ">zoꜩ</rs> <rs ana="JUN_WINAQ">inzamahel</rs> cumal <rs ana="TZ'AQOL">ꜩa<pc> –</pc>
 <lb n="42"/>col</rs> ive <rs ana="B'ITOL">bitol</rs> ive xqha curi <rs ana="XIB'ALB'A">xi<pc> –</pc>
 <lb n="43"/>balba</rs>. xequicot chicut xnimar
 <lb n="44"/>chic chi qui qux ri <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">avilix</rs>
@@ -9537,8 +9537,8 @@ cap.
 <lb n="34"/>ança de vuestro <rs ana="TZ'AQOL">críador</rs>, y <rs ana="B'ITOL">formador</rs>.
 <lb n="35"/>no deís su fuego a los pueblos, hasta
 <lb n="36"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lo pregunteís al <rs ana="TOJIL">tohíl</rs>, y el os díra si
-<lb n="37"/>lo dareís ono díxo aquel de <rs ana="XIB'ALB'A">el ínfí<pc> –</pc>
-<lb n="38"/>erno</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tenía alas como murçíelago.
+<lb n="37"/>lo dareís ono díxo <rs ana="JUN_WINAQ">aquel</rs> de <rs ana="XIB'ALB'A">el ínfí<pc> –</pc>
+<lb n="38"/>erno</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tenía alas como <rs ana="SOTZ">murçíelago</rs>.
 <lb n="39"/>y díxo: yo soy <rs ana="JUN_WINAQ">mensagero</rs> de vues<pc> –</pc>
 <lb n="40"/>tro <rs ana="TZ'AQOL">críador</rs> y <rs ana="B'ITOL">formador</rs>. y se alegra<pc> –</pc>
 <lb n="41"/>ron, y se ensalço su corazon, del <rs ana="TOJIL">to<pc> –</pc>
