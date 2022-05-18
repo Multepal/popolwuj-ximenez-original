@@ -4206,9 +4206,9 @@ cap.
 <lb n="27"/>ꜫaꜫanih rumal ri quiꜩih vi chi e
 <lb n="28"/>qui chi qui qoheic quehe cu maui
 <lb n="29"/>coh iralahobizah vi xere cut chi
-<lb n="30"/>ya chiquech riralquim ral torob
-<lb n="31"/>xere curi xnam queh xnam q,i<pc> –</pc>
-<lb n="32"/>quin chulta i ya zcaquin vquiquel
+<lb n="30"/>ya chiquech riral<rs ana="K'IM">quim</rs> ral <rs ana="TOROB">torob</rs>
+<lb n="31"/>xere curi xnam <rs ana="KEJ">queh</rs> xnam <rs ana="TZ'IKIN">q<hi rend="subscript">,</hi>i<pc> –</pc>
+<lb n="32"/>quin</rs> chulta i ya zcaquin <rs ana="KIK'">vquiquel</rs>
 <lb n="33"/>chiquech, tocob cavach chicanah
 <lb n="34"/>cut rizmal ri queh chichahih a
 <lb n="35"/>re e ri vmucu vach chimich canoc
@@ -4245,7 +4245,7 @@ cap.
 <lb n="18"/>chi quihil xapatac huyub quebi<pc> –</pc>
 <lb n="19"/>invi arecut chiquechaah ri xa
 <lb n="20"/>ral <rs ana="WONON">vorom</rs>. xa ral <rs ana="SITA'L">zital</rs> xa pu ral
-<lb n="21"/>acah, chiquiꜩucuh mana vꜩilah
+<lb n="21"/><rs ana="AQAJ">acah</rs>, chiquiꜩucuh mana vꜩilah
 <lb n="22"/>va vꜩilah a. tapuch maui ca<pc> –</pc>
 <lb n="23"/>lah vbeel cochoch maui calah
 <lb n="24"/>qovi canoc <rs ana="IXOQ_AJAWAB'">quixoquila</rs>, are cut
@@ -4274,9 +4274,9 @@ cap.
 <lb n="47"/>ib chubinic chicah quimaih chi<pc> –</pc>
 <pb xml:id="xom-f42-s2"/>                    
 <lb n="1"/>qaech huta quih ta quevl chicut
-<lb n="2"/>chiri chicochoch ruq quixoquil
-<lb n="3"/>xaviral vonon ral zital, xapu ral
-<lb n="4"/>acah cu cucaam chiquiyao chire<pc> –</pc>
+<lb n="2"/>chiri chicochoch ruq <rs ana="IXOQ_AJAWAB'">quixoquil</rs>
+<lb n="3"/>xaviral <rs ana="WONON">vonon</rs> ral <rs ana="SITA'L">zital</rs>, xapu ral
+<lb n="4"/><rs ana="AQAJ">acah</rs> cu cucaam chiquiyao chire<pc> –</pc>
 <lb n="5"/>ch quixoquil hu ta quih. ta xebe
 <lb n="6"/>chicut chuvach <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">aulix</rs> <rs ana="JAQAWITZ">ha<pc> –</pc>
 <lb n="7"/>caviꜩ</rs> xeqha cut chi qui qux. are
@@ -9996,7 +9996,7 @@ cap.
 <lb n="1"/>quarto <rs ana="B'ALAM_KI'TZE'">balam quíꜩe</rs>, <rs ana="B'ALAM_AQ'AB'">balam acab</rs>
 <lb n="2"/><rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IQ'I_B'ALAM">íquíbam</rs>. y lloraban
 <lb n="3"/>sus corazones sobre el <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">auílíx</rs>; <rs ana="JAQAWITZ">ha
-<lb n="4"/>cauíꜩ</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba en los eques o yeruas,
+<lb n="4"/>cauíꜩ</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba en <rs ana="MAK_EK'">los eques o yeruas</rs>,
 <lb n="5"/>y en el paste por ellos.
 </p>
 <p corresp="#p62">
@@ -10026,15 +10026,15 @@ cap.
 <lb n="28"/>nos encolerízaremos por aquellas sus
 <lb n="29"/>palabras, y de el estilo de sus vocas; y
 <lb n="30"/>así no permítas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>seamos cogídos en
-<lb n="31"/>redes, y solo dadnos la paja, y el za<pc> –</pc>
-<lb n="32"/>cate despreçíado. y solamente ven<pc> –</pc>
+<lb n="31"/>redes, y solo dadnos <rs ana="K'IM">la paja</rs>, y <rs ana="TOROB">el za<pc> –</pc>
+<lb n="32"/>cate</rs> despreçíado. y solamente ven<pc> –</pc>
 <lb n="33"/>dran a darte <rs ana="KEJ">el venado</rs> hembra, y las
 <lb n="34"/>hembras de <rs ana="TZ'IKIN">los paxaros</rs>, y vn poco de
-<lb n="35"/>su sangre para nosotros pobres de no<pc> –</pc>
+<lb n="35"/>su <rs ana="KIK'">sangre</rs> para nosotros pobres de no<pc> –</pc>
 <lb n="36"/>sotros <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sera dexada la lana del ve<pc> –</pc>
 <lb n="37"/>nado, guardad aquella vista de los o<pc> –</pc>
 <lb n="38"/>jos de los engaños <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les haran, y este
-<lb n="39"/>serã sus venados, y estos seran nuestros
+<lb n="39"/>serã <rs ana="KEJ">sus venados</rs>, y estos seran nuestros
 <lb n="40"/>substitutes ante el pueblo. y entonçes
 <lb n="41"/>os díran donde esta el <rs ana="TOJIL">tohíl</rs>? entonçes
 <lb n="42"/>mostraldes <rs ana="KEJ">el venado</rs>, y no os manífes<pc> –</pc>
@@ -10094,7 +10094,7 @@ cap.
 <pb corresp="xom-f42-s2"/>
 <lb n="1"/>y todos los días venían con <rs ana="IXOQ_AJAWAB'">sus muge<pc> –</pc>
 <lb n="2"/>res</rs> a sus habitaçíones, y solo traían
-<lb n="3"/>híjos de <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">abíspas</rs>, y panales
+<lb n="3"/>híjos de <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">abíspas</rs>, y <rs ana="AQAJ">panales</rs>
 <lb n="4"/>y les daban asus mugeres. todos los
 <lb n="5"/>días. y ensconces se fueron ante el
 <lb n="6"/><rs ana="TOJIL">tohíl</rs><rs ana="AWILIX">auílíx</rs>, <rs ana="JAQAWITZ">hacauíꜩ</rs> y díxeron en
