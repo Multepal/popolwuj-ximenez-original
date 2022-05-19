@@ -4703,15 +4703,15 @@ cap.
 <lb n="29"/>namit macu habi caquixibih
 <lb n="30"/>quib ri ahquixb ahcahb xa
 <lb n="31"/>quecai vloc chuchi coxtum e cho<pc> –</pc>
-<lb n="32"/>lon vloc ruq quixoquil calcual
+<lb n="32"/>lon vloc ruq <rs ana="IXOQ_AJAWAB'">quixoquil</rs> calcual
 <lb n="33"/>xa cul qui qux banoh cu zui ꜩih
 <lb n="34"/>ri amac ta xe acan cut chuvach
 <lb n="35"/><rs ana="JAQAWITZ_JUYUB'">huyub</rs> xa cu zcaquin chic ma vi
 <lb n="36"/>queꜩaconic chuchi tinamit cate
-<lb n="37"/>puch ta xhac v vi ri cocob cahib
+<lb n="37"/>puch ta xhac v vi ri <rs ana="Q'OQ">cocob</rs> cahib
 <lb n="38"/>qo vi chi tinamit ta xeel curi
 <lb n="39"/><rs ana="WONON">vonon</rs> <rs ana="SITA'L">zital</rs> queheri zib ta xel
-<lb n="40"/>chupam ri huhun chi cocob cu<pc> –</pc>
+<lb n="40"/>chupam ri huhun chi <rs ana="Q'OQ">cocob</rs> cu<pc> –</pc>
 <lb n="41"/>ꜩin curi ahlabal rumal chi<pc> –</pc>
 <lb n="42"/>cop tacatoh chu bac qui vach
 <lb n="43"/>ta catoh puch chi qui ꜩam chi<pc> –</pc>
@@ -4788,16 +4788,16 @@ cap.
 <lb n="16"/>qui qahol ri. are xquipixabeh
 <lb n="17"/>canoc xa hun e qo vi qui cahichal
 <lb n="18"/>xebixanic chicatat qui qux choc
-<lb n="19"/>pu qui qux chupan quibixic camu
-<lb n="20"/>cu vbi quibix xquibixah. ta
+<lb n="19"/>pu qui qux chupan quibixic <rs ana="QAMUKU">camu
+<lb n="20"/>cu</rs> vbi quibix xquibixah. ta
 <lb n="21"/>xepixab cut chire qui qahol ix
 <lb n="22"/>ca qahol cohbec cohzalih puch
 <lb n="23"/>zaquil ꜩih zaquil pixab capixab
 <lb n="24"/>chiue micu xixul cacanaht
-<lb n="25"/>chihuyubal ix quixoquil xe
-<lb n="26"/>qha chire quixoquil chiqui huhu<pc> –</pc>
+<lb n="25"/>chihuyubal <rs ana="IXOQ_AJAWAB'">ix quixoquil</rs> xe
+<lb n="26"/>qha chire <rs ana="IXOQ_AJAWAB'">quixoquil</rs> chiqui huhu<pc> –</pc>
 <lb n="27"/>nal xepixabic cohbe chi camac
-<lb n="28"/>cholan chic cahaual queh leman chicah
+<lb n="28"/>cholan chic <rs ana="TOJIL">cahaual queh</rs> leman chicah
 <lb n="29"/>xaꜩalihem xchicabano mi xbana<pc> –</pc>
 <lb n="30"/>tahic capatan mi xꜩacat caquih
 <lb n="31"/>cohina cut moh izacho mohi
@@ -4818,7 +4818,7 @@ cap.
 <lb n="46"/>cut qui pixabic ri ta xezach
 <lb n="47"/>cut chiri chuvi <rs ana="JAQAWITZ_JUYUB'">huyub hacaviꜩ</rs>     
 <pb xml:id="xom-f48-s1"/>
-<lb n="1"/>mana xemuctah rumal quixoquil
+<lb n="1"/>mana xemuctah rumal <rs ana="IXOQ_AJAWAB'">quixoquil</rs>
 <lb n="2"/>calcual maui calah qui zachic taxe 
 <lb n="3"/>zachic xere calah ri quipu xabic 
 <lb n="4"/>loe curi pizom chiquech xuxic 
@@ -10507,7 +10507,7 @@ cap.
 <lb n="14"/>acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaban sobre
 <lb n="15"/><rs ana="JAQAWITZ_JUYUB'">el çerro hacauíꜩ</rs>, y agora díremos co<pc> –</pc>
 <lb n="16"/>mo fue suentrada.
-<lb n="17"/>cabÿhchic
+<lb n="17"/>
 </p>
 <p corresp="#p69">
 <lb n="18"/>y allí estaban <rs ana="B'ALAM_KI'TZE'">balamquíꜩe</rs>, <rs ana="B'ALAM_AQ'AB'">balam a<pc> –</pc>
@@ -10522,7 +10522,7 @@ cap.
 <lb n="27"/>uaban, y mormollaban con ruydo, y
 <lb n="28"/>síluaban con las manos, y entrando
 <lb n="29"/>debaxo de el pueblo no les daua cu<pc> –</pc>
-<lb n="30"/>ídado á aquellos <choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice> síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>atentos
+<lb n="30"/>ídado á aquellos <rs ana="XA_Q'ANA_JAL"><choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice></rs> síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>atentos
 <lb n="31"/>míraban sobre la muralla, todos
 <lb n="32"/>en orden con <rs ana="IXOQ_AJAWAB'">sus mugeres</rs>, y sus híjos
 <lb n="33"/>y aguardaban suspensos la obra. y
@@ -10530,10 +10530,10 @@ cap.
 <lb n="35"/>do subíeron sobre <rs ana="JAQAWITZ_JUYUB'">el çerro</rs>, y poco
 <lb n="36"/>faltaba ya para <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se arrojasen ala
 <lb n="37"/>orílla de el pueblo., y luego abríe<pc> –</pc>
-<lb n="38"/>ron las calabazas todos quatro, los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es<pc> –</pc>
+<lb n="38"/>ron <rs ana="Q'OQ">las calabazas</rs> todos quatro, los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es<pc> –</pc>
 <lb n="39"/>taban en el pueblo, y salieron <rs ana="WONON">los
 <lb n="40"/>tabanos</rs>, y <rs ana="SITA'L">abíspas</rs>, como humo, <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice>
-<lb n="41"/>salieron de las calabazas, y pereçí<pc> –</pc>
+<lb n="41"/>salieron de <rs ana="Q'OQ">las calabazas</rs>, y pereçí<pc> –</pc>
 <lb n="42"/>an los pueblos por los animales, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
 <lb n="43"/>derechos se íuan a las niñas de los
 <lb n="44"/>ojos, y a las narízes, y las vocas, y a las<pc> –</pc>
@@ -10608,18 +10608,18 @@ cap.
 <lb n="15"/>los híjos. y a estos les auísaron, y manda
 <lb n="16"/>ron, estando todos quarto juntos en vno.
 <lb n="17"/>y cantaron, y estauan trístes, y lloraban
-<lb n="18"/>en su canto, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba el canto qama<pc> –</pc>
-<lb n="19"/>qu. el nombre de el canto <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>cantaron.
+<lb n="18"/>en su canto, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba <rs ana="QAMUKU">el canto qama<pc> –</pc>
+<lb n="19"/>qu</rs>. el nombre de el canto <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>cantaron.
 <lb n="20"/>y entonces auísaron asus híjos. mírald
 <lb n="21"/>híjos nuestros <choice><abbr>q</abbr><expan instant="false">que</expan></choice> nos vamos, y nos bolbe<pc> –</pc>
 <lb n="22"/>mos. y es íllustre yclara esta palabra y
 <lb n="23"/>mandato <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>os mandamus agora pero ha
 <lb n="24"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>venísteís, de aquella vuestra patria
 <lb n="25"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>esta lexos vosotras esposas nuestras
-<lb n="26"/>les dígeron asus mugeres, y de cada
+<lb n="26"/>les dígeron a<rs ana="IXOQ_AJAWAB'">sus mugeres</rs>, y de cada
 <lb n="27"/>vna de por sí se despídíeron, nos vamos
-<lb n="28"/>conuestro pueblo. ya queda en orden el
-<lb n="29"/><choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> de los venados manífíesto esta en
+<lb n="28"/>conuestro pueblo. ya queda en orden <rs ana="TOJIL">el
+<lb n="29"/><choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> de los venados</rs> manífíesto esta en
 <lb n="30"/>el cíelo. ya hecemos nuestra buelta
 <lb n="31"/>yase hecho todo lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaba anuestro car
 <lb n="32"/>go, yase ajustaron nuestros días. no
