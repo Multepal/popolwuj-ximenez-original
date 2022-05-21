@@ -4821,7 +4821,7 @@ cap.
 <lb n="1"/>mana xemuctah rumal <rs ana="IXOQ_AJAWAB'">quixoquil</rs>
 <lb n="2"/>calcual maui calah qui zachic taxe 
 <lb n="3"/>zachic xere calah ri quipu xabic 
-<lb n="4"/>loe curi pizom chiquech xuxic 
+<lb n="4"/>loe curi <rs ana="PISOM_Q'AQ'AL">pizom</rs> chiquech xuxic 
 <lb n="5"/>are natabal rech qui cahau xa 
 <lb n="6"/>huzu xecaton chuvach qui na<pc> –</pc>
 <lb n="7"/>ba bal rech quicahau <del type="strike-through" instant="false" status="unremarkable"> xehuzu  
@@ -4829,7 +4829,7 @@ cap.
 <lb n="9"/>qui cahau </del>. areta xvinaquir vi 
 <lb n="10"/>vinac cumal ahauab ta xecam<del type="scribble" instant="false" status="unremarkable">be</del>
 <lb n="11"/>chirih <rs ana="B'ALAM_KI'TZE'">balam quiꜩe</rs> ticarinac vi 
-<lb n="12"/>v mam vcahau caviquib xmacui 
+<lb n="12"/>v mam vcahau <rs ana="KAWEQ">caviquib</rs> xmacui 
 <lb n="13"/>cut xquizach vi ri vqahol ri <rs ana="K'OKA'IB_KQDOS">co 
 <lb n="14"/>caib</rs> <rs ana="K'OQAWIB_KQDOS">qo cavib</rs> qui bi quehecut 
 <lb n="15"/>qui camic ri quicahichal ena be 
@@ -4842,10 +4842,10 @@ cap.
 <lb n="22"/>xaqui eco chic xaui cucaam 
 <lb n="23"/>quib conohel hutaquih. chiqui 
 <lb n="24"/>nabah qui cahau nim vquih ri 
-<lb n="25"/>pizom chique maui chiquiquicro1 
-<lb n="26"/>xaui pizl<gap reason="illegible" extent="several characters" instant="false"/><add place="above" instant="false" status="unremarkable">ic</add> 2 chiri cuq. pizom ea<pc> –</pc>
-<lb n="27"/>eal chuqhaxic cumal taxcobic 
-<lb n="28"/>xbinaah puch quicuun xya 
+<lb n="25"/><rs ana="PISOM_Q'AQ'AL">pizom</rs> chique maui chiquiquicrol 
+<lb n="26"/>xaui pizl<gap reason="illegible" extent="several characters" instant="false"/><add place="above" instant="false" status="unremarkable">ic</add> 2 chiri cuq. <rs ana="PISOM_Q'AQ'AL">pizom ea<pc> –</pc>
+<lb n="27"/>eal</rs> chuqhaxic cumal taxcobic 
+<lb n="28"/>xbinaah puch qui<rs ana="PISOM_Q'AQ'AL">cuun</rs> xya 
 <lb n="29"/>canoc rumal qui cahau ya re<pc> –</pc>
 <lb n="30"/>tal qui quiqoheic ta xquibano 
 <lb n="31"/>quehe cu qui zachic qui maixic 
@@ -4888,12 +4888,12 @@ cap.
 <lb n="15"/>uic chuvi <rs ana="PALO">palo</rs> ta xeoponcut
 <lb n="16"/>chila relebal quih taxbe qui
 <lb n="17"/>cama ri ahauarem. are cu v<pc> –</pc>
-<lb n="18"/>biahau va rahaual ahrele<pc> –</pc>
+<lb n="18"/>bi<rs ana="NAKXIT">ahau</rs> va <rs ana="NAKXIT">rahaual</rs> ahrele<pc> –</pc>
 <lb n="19"/>bal quih xeoponvi.
 </p>
 <p xml:id="p72">
-<lb n="20" rend="indent" /><hi rend="large">T</hi>a xeopon cut chuvach ahau
-<lb n="21"/><rs ana="NAKXIT">nacxit</rs> vbi nim ahau xahu
+<lb n="20" rend="indent" /><hi rend="large">T</hi>a xeopon cut chuvach <rs ana="NAKXIT">ahau</rs>
+<lb n="21"/><rs ana="NAKXIT">nacxit</rs> vbi nim <rs ana="NAKXIT">ahau xahu</rs>
 <lb n="22"/>catol ꜩih ꜩaꜩ rahauarem are
 <lb n="23"/>cut xyau vloc retal ahauarem
 <lb n="24"/>ronohel vvachinel ta xpetic re
@@ -4902,11 +4902,11 @@ cap.
 <lb n="27"/>rem puch <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs>
 <lb n="28"/>xquiz vya vloc <rs ana="NAKXIT">nacxit</rs> vvachi<pc> –</pc>
 <lb n="29"/>nel rahauarem aretac vbi va
-<lb n="30"/>muh ealibah <rs ana="SU'">zu</rs>bac <rs ana="Q'OJOM">chamcham</rs>
-<lb n="31"/>tatil canabah ꜩicvil cohꜩicuil
-<lb n="32"/>balam holom pich queh macu<pc> –</pc>
-<lb n="33"/>tax tot tatam quz buz caxcon
-<lb n="34"/>chiyom aztapulul ronohel cu
+<lb n="30"/><rs ana="MU'J">muh</rs> <rs ana="Q'ALIB'AJ">ealibah</rs> <rs ana="SUB'AQ">zubac</rs> <rs ana="CHAMCHAM">chamcham</rs>
+<lb n="31"/><rs ana="TATIL">tatil</rs> <rs ana="Q'ANAB'AJ">canabah</rs> <rs ana="TZIKWIL_KOJ">ꜩicvil coh</rs><rs ana="TZIKWIL_B'ALAM">ꜩicuil
+<lb n="32"/>balam</rs> <rs ana="JOLOM">holom</rs> <rs ana="PICH_KEJ">pich queh</rs> <rs ana="MAKUTAX">macu<pc> –</pc>
+<lb n="33"/>tax</rs> <rs ana="T'OT_TATAN">tot tatam</rs> <rs ana="K'US_B'US">quz buz</rs> <rs ana="KAXKON">caxcon</rs>
+<lb n="34"/><rs ana="CHIYOM">chiyom</rs> <rs ana="ASTAPULUL">aztapulul</rs> ronohel cu
 <lb n="35"/>quecaam ri xepetic taxquica<pc> –</pc>
 <lb n="36"/>vlari chaca <rs ana="PALO">palo</rs> vꜩibal <rs ana="TULÁN">tulan</rs>
 <lb n="37"/>vꜩibal xeqha chire qui oqui<pc> –</pc>
@@ -10644,38 +10644,38 @@ cap.
 </note>
 <lb n="1"/>de esta cosído, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> no lo uíeron quando se 
 <lb n="2"/>embolbío, y así fue su despedida, y se per<pc> –</pc>
-<lb n="3"/>díeron de sobre el çerro de <rs ana="JAQAWITZ_JUYUB'">hacavíꜩ</rs> y no
-<lb n="4"/>fueron vístos más desus mugeres, e híjos 
+<lb n="3"/>díeron de sobre <rs ana="JAQAWITZ_JUYUB'">el çerro de hacavíꜩ</rs> y no
+<lb n="4"/>fueron vístos más de<rs ana="IXOQ_AJAWAB'">sus mugeres</rs>, e híjos 
 <lb n="5"/>y nose sabe <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se hízíeron quando se desa<pc> –</pc>
 <lb n="6"/>pareçíeron. solo se supo desu despedída, 
-<lb n="7"/>y del emboltorío, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fue cosa muy ama<pc> –</pc>
+<lb n="7"/>y <rs ana="PISOM_Q'AQ'AL">del emboltorío</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fue cosa muy ama<pc> –</pc>
 <lb n="8"/>da <choice><abbr>p<hi rend="superscript">a</hi></abbr><expan instant="false">para</expan></choice> ellos. y esta fue la memoría desus<pc> –</pc>
 <lb n="9"/>padres. y luego cantaron ante la me<pc> –</pc>
 <lb n="10"/>moría de sus Padres. y de aquí naçíeron 
 <lb n="11"/>los hombres por los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> quando toma<del type="scribble" instant="false" status="unremarkable">œœ 
 <lb n="12"/>œ</del>ron<add place="above" instant="false" status="unremarkable">de</add><rs ana="B'ALAM_KI'TZE'">balamquíꜩe</rs>, <del type="strike-through" instant="false" status="unremarkable"><rs ana="B'ALAM_AQ'AB'">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahu<pc> –</pc>
 <lb n="13"/>cutah</rs>, <rs ana="IQ'I_B'ALAM">íquíbalam</rs></del> empezaron los padres 
-<lb n="14"/>y abuelos de los de cauíquíquíb. y nose 
+<lb n="14"/>y abuelos de <rs ana="KAWEQ">los de cauíquíquíb</rs>. y nose 
 <lb n="15"/>perdíeron sus híjos <rs ana="K'OKA'IB_KQDOS">qocaíb</rs>, y <rs ana="K'OQAWIB_KQDOS">qocauíb</rs>
 <lb n="16"/>yasí fueron las muertes de aquellos qua 
 <lb n="17"/>tro, nuestros prímeros padres, y abu<pc> –</pc>
 <lb n="18"/>elos, quando desapareçieron, y dexa 
-<lb n="19"/>ron asus híjos sobre el çerro <rs ana="JAQAWITZ_JUYUB'">hacauíꜩ</rs>. 
+<lb n="19"/>ron asus híjos sobre <rs ana="JAQAWITZ_JUYUB'">el çerro hacauíꜩ</rs>. 
 <lb n="20"/>yallíse estuvíeron sus híjos. y estando 
 <lb n="21"/>ya los pueblos auasallados, ya no te<pc> –</pc>
 <lb n="22"/>nían grandeza, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se estaban, y 
 <lb n="23"/>se cargaban todos todos los días. yacor<pc> –</pc>
 <lb n="24"/>dabanse desus padres, y eran cosa gran<pc> –</pc>
-<lb n="25"/>de aquel emboltorío para ellos, y no 
+<lb n="25"/>de <rs ana="PISOM_Q'AQ'AL">aquel emboltorío</rs> para ellos, y no 
 <lb n="26"/>lo desataron, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se estuuo embuelto 
-<lb n="27"/>con ellos. y es llamado por ellos la gran<pc> –</pc>
-<lb n="28"/>deza embuelta. y entonçes se çelebro, 
+<lb n="27"/>con ellos. y es llamado por ellos <rs ana="PISOM_Q'AQ'AL">la gran<pc> –</pc>
+<lb n="28"/>deza embuelta</rs>. y entonçes se çelebro, 
 <lb n="29"/>y se le puso el nombre, lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les dío a gu<pc> –</pc>
 <lb n="30"/>ardar su padre, solo en memoría de 
 <lb n="31"/>quíenes eran, quando lo hízíeron. 
 <lb n="32"/>y asífue quando desapareçíeron, y 
 <lb n="33"/>se perdíeron <rs ana="B'ALAM_KI'TZE'">balamquíꜩe</rs>, <rs ana="B'ALAM_AQ'AB'">balam a<pc> –</pc>
-<lb n="34"/>cab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, <rs ana="IQ'I_B'ALAM"> íquíbalam</rs>. los prime<pc> –</pc>
+<lb n="34"/>cab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, <rs ana="IQ'I_B'ALAM">íquíbalam</rs>. los prime<pc> –</pc>
 <lb n="35"/>ros hombres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> víníeron de la otra 
 <lb n="36"/>parte de <rs ana="PALO">el mar</rs>, de el oríente. antígua 
 <lb n="37"/>mente víníeron aquí, y muríeron ya 
@@ -10707,13 +10707,13 @@ cap.
 <lb n="13"/><choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> se fueron los tres. y asímesmo pasa<pc> –</pc>
 <lb n="14"/>ron sobre <rs ana="PALO">el mar</rs>, y llegaron alla al
 <lb n="15"/>oríente, y fueron a reçíuír su ímperío
-<lb n="16"/>y este era el nombre de el <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>domí<pc> –</pc>
+<lb n="16"/>y este era <rs ana="NAKXIT">el nombre de el <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice></rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>domí<pc> –</pc>
 <lb n="17"/>naba en el oríente, adonde fueron.
 </p>
 <lb />
 <lb />
 <p corresp="#p72">
-<lb n="18"/>y llegaron ante el <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba <rs ana="NAKXIT"><hi rend="underline">nac<pc> –</pc>
+<lb n="18"/>y llegaron ante <rs ana="NAKXIT">el <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice></rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba <rs ana="NAKXIT"><hi rend="underline">nac<pc> –</pc>
 <lb n="19"/>xít</hi></rs>. gran <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice>. y vno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>todo lo juzgaba.
 <lb n="20"/>y era grande su reíno, y <gap reason="illegible" unit="character" instant="false"/>este lesdío
 <lb n="21"/><del instant="false" status="unremarkable">con</del> la señal de su Reyno, de todos los
@@ -10722,12 +10722,12 @@ cap.
 <lb n="24"/>entonçes víno la señal de lagrande<pc> –</pc>
 <lb n="25"/>za, y grandes, y <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> yacabo de dar<pc> –</pc>
 <lb n="26"/>lo todo el <rs ana="NAKXIT">nacxít</rs>, los adeuínos, y for<pc> –</pc>
-<lb n="27"/>ma de el Reyno. y era todo esto. el tro
-<lb n="28"/>no, <rs ana="SU'">flauta</rs>, <rs ana="Q'OJOM">cham cham</rs>. otra <rs ana="SU'">flauta</rs>. chal<pc> –</pc>
-<lb n="29"/>chíguítes, ꜩícvil cohꜩícuíl <rs ana="B'ALAM">balam</rs>, ho
-<lb n="30"/>lom, cabeza. pích. <rs ana="KEJ">queh</rs>, macutax tot.
-<lb n="31"/>tatam, quz, buz, caxcom, chíyom, azta
-<lb n="32"/>polul. y todo lo trageron cargado quan<pc> –</pc>
+<lb n="27"/>ma de el Reyno. y era <rs ana="MU'J">todo esto</rs>. <rs ana="Q'ALIB'AJ">el tro
+<lb n="28"/>no</rs>, <rs ana="SUB'AQ">flauta</rs>, <rs ana="Q'OJOM">cham cham</rs>. <rs ana="TATIL">otra flauta</rs>. <rs ana="Q'ANAB'AJ">chal<pc> –</pc>
+<lb n="29"/>chíguítes</rs>, <rs ana="TZIKWIL_KOJ">ꜩícvil coh</rs> <rs ana="TZIKWIL_B'ALAM">ꜩícuíl balam</rs>, <rs ana="JOLOM">ho
+<lb n="30"/>lom, cabeza</rs>. <rs ana="PICH_KEJ">pích. queh</rs>, <rs ana="MAKUTAX">macutax</rs> <rs ana="T'OT'_TATAN">tot.
+<lb n="31"/>tatam</rs>, <rs ana="K'US_B'US">quz, buz</rs>, <rs ana="KAXKON">caxcom</rs>, <rs ana="CHIYOM">chíyom</rs>, <rs ana="ASTAPULUL">azta
+<lb n="32"/>polul</rs>. y todo lo trageron cargado quan<pc> –</pc>
 <lb n="33"/>do víníeron, y lo trageron de la otra
 <lb n="34"/>parte de <rs ana="PALO">el mar</rs>, su escrítura, y píntura
 <lb n="35"/>de <rs ana="TULÁN">tulan</rs>, su escrítura, díxeron a esto <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
