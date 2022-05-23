@@ -5400,10 +5400,10 @@ cap.
 <note  place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">53</hi></num>
 </note>
-<lb n="1"/><rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note> ta xban chaponic xquicobi<pc> –</pc>
+<lb n="1"/><rs ana="TINAMIT_K'ICHE'">quiche</rs> ta xban chaponic xquicobi<pc> –</pc>
 <lb n="2"/>zah vnabe cal quiqahol quehe
 <lb n="3"/>cut vcamic naoh macu chiri x<pc> –</pc>
-<lb n="4"/>chapvi <rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note> qo vbi huyub x<pc> –</pc>
+<lb n="4"/>chapvi <rs ana="TINAMIT_K'ICHE'">quiche</rs> qo vbi huyub x<pc> –</pc>
 <lb n="5"/>chap vi vnabe al qahol. ta xetac
 <lb n="6"/>cut runohel qo pa huhun chihu<pc> –</pc>
 <lb n="7"/>yub xa hun xecuchvi.
@@ -5415,7 +5415,7 @@ cap.
 </p>
 <p xml:id="p85">
 <lb n="11" rend="indent"/>Va cute qui cobic qui chapic
-<lb n="12"/>quetaxic puch huvinac ealel hu
+<lb n="12"/>quetaxic puch huvinac <rs ana="Q'ALEL">ealel</rs> hu
 <lb n="13"/>vinac <rs ana="AJPOP">ahpop</rs> xchapic rumal <rs ana="AJPOP">ah<pc> –</pc>
 <lb n="14"/>pop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs> rumal puch <rs ana="AJTZIK_WINAQ">ea<pc> –</pc>
 <lb n="15"/>lel ah ꜩic vinac</rs> xoc queealem ro<pc> –</pc>
@@ -5428,7 +5428,7 @@ cap.
 <lb n="22"/>chacat e vnabe ral vqahol que
 <lb n="23"/>che vinac ilol rech taol rech v
 <lb n="24"/>chi qha, vchi caam quehoh ꜩapib
-<lb n="25"/>ꜩalam coxtum chirih <rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>. xaui
+<lb n="25"/>ꜩalam coxtum chirih <rs ana="TINAMIT_K'ICHE'">quiche</rs>. xaui
 <lb n="26"/>cu quehe xubano <rs ana="TAMUB'">tamub</rs><rs ana="ILOKAB'">ilocab</rs>
 <lb n="27"/>xuqhapo xucobizah puch vnabe
 <lb n="28"/>ral vqahol qopa huhun chi huyub.
@@ -11216,7 +11216,7 @@ cap.
 <lb n="1"/>de <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, quando nombraron los
 <lb n="2"/>capítanes, y caudillos de los vasallos,
 <lb n="3"/>y asífu . y no fueron nombrados aquí
-<lb n="4"/>en <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, tíene su nombre el çero
+<lb n="4"/>en <rs ana="TINAMIT_K'ICHE'">el quiche</rs>, tíene su nombre el çero
 <lb n="5"/>donde fueron nombrados los capíta<pc> –</pc>
 <lb n="6"/>nes de los vasallos. y fueron embíados
 <lb n="7"/>todos cada vno a su çerro, y se juntaron
@@ -11237,10 +11237,10 @@ cap.
 <lb n="18"/>ꜩalam achíh</rs>, <rs ana="UTZA'M_ACHIJ">v ꜩamachíh</rs>, así se nom<pc> –</pc>
 <lb n="19"/>braron los capítanes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>entraron, y çe<pc> –</pc>
 <lb n="20"/>lebraron, sobre sus tronos, y asíentos
-<lb n="21"/>por capítanes de sus uasallos, los quích<pc> –</pc>
-<lb n="22"/>es, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> los mírasen, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> los oyesen, con sus
+<lb n="21"/>por capítanes de sus uasallos, <rs ana="TINAMIT_K'ICHE'">los quích<pc> –</pc>
+<lb n="22"/>es</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> los mírasen, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> los oyesen, con sus
 <lb n="23"/>arcos, y flechas, <choice><abbr>pa</abbr><expan instant="false">para</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>çerrasen, y hízíesen
-<lb n="24"/>muralla, y valla <rs ana="TINAMIT_K'ICHE'">al quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>. y así mes<pc> –</pc>
+<lb n="24"/>muralla, y valla <rs ana="TINAMIT_K'ICHE'">al quiche</rs>. y así mes<pc> –</pc>
 <lb n="25"/>mo lo hízo el <rs ana="TAMUB'">tamub</rs>, e <rs ana="ILOKAB'">ílocab</rs>. nom<pc> –</pc>
 <lb n="26"/>braron los capítanes desus vasallos, <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>
 <lb n="27"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estubíesen en cada vno de los cer<pc> –</pc>
