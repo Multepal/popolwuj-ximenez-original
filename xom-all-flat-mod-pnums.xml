@@ -5278,7 +5278,7 @@ cap.
 <lb n="28"/><rs ana="KAWISIMAJ_KQSIETE">cavizimah</rs> vbi hun chic. are
 <lb n="29"/>cut ꜩaꜩ chic xuban ri <rs ana="K'IKAB'_KQSIETE">qui cab</rs>
 <lb n="30"/><rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs>. are chi xnimarizan
-<lb n="31"/><rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note> rumal quiꜩih naual v
+<lb n="31"/><rs ana="TINAMIT_K'ICHE'">quiche</rs> rumal quiꜩih naual v
 <lb n="32"/>qoheic are cahouic arepuch
 <lb n="33"/>xpaxinic vzivan vtina mit chu<pc> –</pc>
 <lb n="34"/>ti amac nimaamac nacah tac
@@ -5287,7 +5287,7 @@ cap.
 <lb n="37"/><rs ana="WILA'">chuuila</rs> vacamic vhuyubal chi<pc> –</pc>
 <lb n="38"/>naipu <rs ana="RAB'INALEB'">rabinaleb</rs> ri <rs ana="PA_MAK'A'">pamaca</rs> v
 <lb n="39"/>huyub cu <rs ana="KAWKEB'">caoqueb</rs> <rs ana="SAQKABAJA">rizacabaha</rs>
-<lb n="40"/><rs ana="SAQULEWAB'">vtinamit chicut zaculeuab</rs>
+<lb n="40"/>vtinamit chicut <rs ana="SAQULEWAB'">zaculeuab</rs>
 <lb n="41"/><rs ana="CHUWI_MEQ'ENA'">chuvi miquina</rs>, <rs ana="XELAJUJ">xelahu</rs>, <rs ana="CHUWA_TZ'AQ">chuva
 <lb n="42"/>ꜩac</rs> ruq <rs ana="TZ'OLOJ_CHE'">ꜩolohche</rs>. are xrixo<pc> –</pc>
 <lb n="43"/>uah <rs ana="K'IKAB">quieab</rs> xuban labal qui<pc> –</pc>
@@ -5309,10 +5309,10 @@ cap.
 <lb n="8"/>mit huzu chi hixtahic vchi vleu que<pc> –</pc>
 <lb n="9"/>heri chi cozin caculha chupaxih a
 <lb n="10"/>bah chixibinic libahchi chelah a
-<lb n="11"/>mac chuvach colche retal tinamit
+<lb n="11"/>mac chuvach <rs ana="Q'OL_CHE'">colche</rs> retal tinamit
 <lb n="12"/>rumal vacamic hunhuyub abah
 <lb n="13"/>xzcaquin chic maui xcatatahic que<pc> –</pc>
-<lb n="14"/>heri xchoi chiicah rumal chila
+<lb n="14"/>heri xchoi chi<rs ana="KAJ">icah</rs> rumal chila
 <lb n="15"/>qovi patacah <rs ana="PETATAYUB">petatayub</rs> vbi ca<pc> –</pc>
 <lb n="16"/>lah vacamic caril ronohel vinac
 <lb n="17"/>queico vi retal rachihilal <rs ana="K'IKAB'_KQSIETE">qui
@@ -5350,7 +5350,7 @@ cap.
 <lb n="47"/>ta xbeiheic ri vchi qha, vchi cam
 <pb xml:id="xom-f53-s1"/>
 <lb n="1"/>chuqhaxic taxpaxin rib vmamvca<pc> –</pc>
-<lb n="2"/>hau ri ronohel queche vinac qo
+<lb n="2"/>hau ri ronohel <rs ana="TINAMIT_K'ICHE'">queche vinac</rs> qo
 <lb n="3"/>pa huhun chi huyub xaqhahal hu<pc> –</pc>
 <lb n="4"/>yub xa pu qhahal qha caam qhah<pc> –</pc>
 <lb n="5"/>al labal puch ta xbec mana hunta
@@ -11093,7 +11093,7 @@ cap.
 <lb n="25"/>sellamaba <rs ana="K'IKAB'_KQSIETE">ꜫaꜫ quicab</rs>. y el otro: <rs ana="KAWISIMAJ_KQSIETE">cauí
 <lb n="26"/>zímah</rs>. y hízíeron muchas cosas el
 <lb n="27"/><rs ana="K'IKAB'_KQSIETE">quícab</rs>, y <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>. y este otra
-<lb n="28"/>vez engrandeçío <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
+<lb n="28"/>vez engrandeçío <rs ana="TINAMIT_K'ICHE'">el quiche</rs>, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
 <lb n="29"/>de uerdad era portentoso. y este
 <lb n="30"/>fue el que díuídío, y repartío los
 <lb n="31"/>pueblos chícos, y grandes, y los pu<pc> –</pc>
@@ -11123,7 +11123,7 @@ cap.
 <lb n="9"/>sobre la tíerra, así como el rayo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="10"/>da en la píedra <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>la quíebra, y des
 <lb n="11"/>parçe, y era espanto, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> luego destru<pc> –</pc>
-<lb n="12"/>ía los pueblos, y ante cloche esta la señal
+<lb n="12"/>ía los pueblos, y ante <rs ana="Q'OL_CHE'">colche</rs> esta la señal
 <lb n="13"/>de el pueblo, y agora esta vn zero de pí<pc> –</pc>
 <lb n="14"/>edra <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>casi esta trocado, como sí fuera
 <lb n="15"/>con <rs ana="KAJ">hacha</rs>. y esta alla en la costa, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
@@ -11156,8 +11156,8 @@ cap.
 <lb n="39"/>otra vez víenen los enemígos, contra
 <lb n="40"/>vosotros, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>os quíeren matar, a toda
 <lb n="41"/>prísa venildo a deçir, y los íremos
-<lb n="42"/>a matar. les díxo <rs ana="K'IKAB'_KQSIETE">quícab</rs>, a ellos los
-<lb n="43"/>soldados, y capítanes, y entonçes fueron
+<lb n="42"/>a matar. les díxo <rs ana="K'IKAB'_KQSIETE">quícab</rs>, a ellos <rs ana="Q'ALEL">los
+<lb n="43"/>soldados</rs>, y <rs ana="AJTZIK_WINAQ">capítanes</rs>, y entonçes fueron
 <lb n="44"/>todos los hombres de guerra, fleche<pc> –</pc>
 <lb n="45"/>ros, yarqueros
 <lb/>
@@ -11166,7 +11166,7 @@ cap.
 <num rend="large"><hi rend="handwriting;color:pencil">53</hi></num>
 </note>
 <lb n="1"/>y entonçes se desaparçíeron los padres
-<lb n="2"/>y abuelos de <rs ana="TINAMIT_K'ICHE'">los quiches</rs><note resp="editor">Should this tag be KAWEQ?</note>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estan en
+<lb n="2"/>y abuelos de <rs ana="TINAMIT_K'ICHE'">los quiches</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estan en
 <lb n="3"/>cada vno de los çerros.<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron a ser gu<pc> –</pc>
 <lb n="4"/>ardas de los montes, y de los arcos, y flechas
 <lb n="5"/>y vígías de la guerra. y nínguno era es<pc> –</pc>
