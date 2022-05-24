@@ -5596,7 +5596,7 @@ cap.
 <lb n="37"/>uab vae cute xchivachin vvach
 <lb n="38"/>chuhuhunal ahauabva.
 <lb n="39"/>cate xchivachin vvach huhun chuhu<pc> –</pc>
-<lb n="40"/>hunal <rs ana="AJAW_K'ICHE'">ahauab quiche</rs>
+<lb n="40"/>hunal <rs ana="TINAMIT_K'ICHE'">ahauab quiche</rs>
 </p>
 <p>
 <lb n="41" rend="indent"/><rs ana="B'ALAM_KI'TZE'"><hi rend="large">B</hi>alam quiꜩe</rs> vxe nabal <rs ana="KAWEQ">cavi
@@ -5606,7 +5606,7 @@ cap.
 <lb n="43"/><rs ana="K'OQAWIB_KQDOS"><hi rend="large">Cocauib</hi></rs> vcale chic <rs ana="B'ALAM_KI'TZE'">balam quiꜩe</rs>
 </p>
 <p>
-<lb n="44"/><rs ana="B'ALAM_K'ONACHE'_KQTRES"><hi rend="large">B</hi>alam conache</rs> xtiquiban ahpopol
+<lb n="44"/><rs ana="B'ALAM_K'ONACHE'_KQTRES"><hi rend="large">B</hi>alam conache</rs> xtiquiban <rs ana="AJPOP">ahpopol</rs>
 <lb n="45" rend="hanging"/>roxle curi 
 </p>
 <p>
@@ -5665,7 +5665,7 @@ cap.
 <lb n="25"/>cabÿh chic re chinamit. Va chicute
 <lb n="26"/>nimha rech huhun chiahauab chi<pc> –</pc>
 <lb n="27"/>rih<rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpopcamha</rs> are vbi<pc> –</pc>
-<lb n="28"/>naam ri beleheb <rs ana="SAQIK">chinamit</rs> <rs ana="KAWEQ">chica<pc> –</pc>
+<lb n="28"/>naam ri beleheb chinamit <rs ana="KAWEQ">chica<pc> –</pc>
 <lb n="29"/>uiquib</rs> beleheb vnimha va tac
 <lb n="30"/>vbi e rahaual huhun chi nimha.
 </p>
@@ -5681,13 +5681,13 @@ cap.
 <lb n="35"/><rs ana="NIM_CH'OKOJ_KAWEQ"><hi rend="large">N</hi>im chocoh cavec</rs> hun vnimha ah<pc> –</pc>
 </p>
 <p>
-<lb n="36"/><hi rend="large">A</hi>hau ahtohil hun vnimha.
+<lb n="36"/><hi rend="large">A</hi>hau <rs ana="AJTOJIL">ahtohil</rs> hun vnimha.
 </p>
 <p>
-<lb n="37"/><hi rend="large">A</hi>hau ah cucumaꜩ hun vnimha
+<lb n="37"/><hi rend="large">A</hi>hau <rs ana="AJQ'UKUMATZ">ah cucumaꜩ</rs> hun vnimha
 </p>
 <p>
-<lb n="38"/><hi rend="large">P</hi>opolvinac chitui hun vnimha
+<lb n="38"/><rs ana="POPOL_WINAQ_CHI_T'UY"><hi rend="large">P</hi>opolvinac chitui</rs> hun vnimha
 </p>
 <p>
 <lb n="39"/><rs ana="LOLMET_KEJNAY"><hi rend="large">L</hi>olmet queh nai</rs> hun vnimha
@@ -5700,7 +5700,7 @@ cap.
 <lb n="42"/><rs ana="TEPEW_YAKI"><hi rend="large">T</hi>epeu iaqui</rs> hun vnimha
 </p>
 <p xml:id="p90">
-<lb n="43" rend="indent" /><hi rend="large">A</hi>re curi bele heb <rs ana="SAQIK">chinamit</rs> chi<pc> –</pc>
+<lb n="43" rend="indent" /><hi rend="large">A</hi>re curi bele heb chinamit chi<pc> –</pc>
 <lb n="44"/>cavi quib ꜩaꜩ ral vqahol ahilatal
 <lb n="45"/>chirih beleheb chinim ha
 </p>
@@ -5713,7 +5713,7 @@ cap.
 <lb n="3"/>quih vxe zac chivinac
 </p>
 <p>
-<lb n="4"/><rs ana="B'ALAM _AQ'AB' "><hi rend="large">B</hi>alam acab</rs> nabe mamaxel ca 
+<lb n="4"/><rs ana="B'ALAM_AQ'AB'"><hi rend="large">B</hi>alam acab</rs> nabe mamaxel ca 
 <lb n="5" rend="hanging"/>hauixel.
 </p>
 <p>
@@ -5845,7 +5845,7 @@ cap.
 <lb n="14" rend="indent"/>vnimha
 </p>
 <p>            
-<lb n="15"/><rs ana="AJAW_NIM_CH'OKOJ"><hi rend="large">N</hi>im chocoh</rs> ahau roxahau hun
+<lb n="15"/><rs ana="AJAW_NIM_CH'OKOJ"><hi rend="large">N</hi>im chocoh ahau</rs> roxahau hun
 <lb n="16" rend="indent"/>unimha. 
 </p>
 <p>            
@@ -5856,7 +5856,7 @@ cap.
 <p xml:id="p96">            
 <lb n="20" rend="indent"/><hi rend="large">A</hi>re curi e oxib chi<rs ana="NIM_CH'OKOJ">nim chocoh</rs>
 <lb n="21"/>queheri e cahauixel rumal ro<pc> –</pc>
-<lb n="22"/>nohel <rs ana="AJAW_K'ICHE'">ahavab quiche</rs> xahun
+<lb n="22"/>nohel <rs ana="TINAMIT_K'ICHE'">ahavab quiche</rs> xahun
 <lb n="23"/>chiqui cuch vi quib e oxib chic<pc> –</pc>
 <lb n="24"/>chocohib. e alanel, e vchuch ꜩih
 <lb n="25"/>evcahau ꜩih nim zcaquin vqo<pc> –</pc>
@@ -5871,7 +5871,7 @@ cap.
 <lb n="32"/>qoheic <rs ana="TINAMIT_K'ICHE'">quicheri</rs> rumal mahabi
 <lb n="33"/>chi ilbalre, <rs ana="POPOL_WUJ">qonabe oher</rs> cu<pc> –</pc>
 <lb n="34"/>mal ahauab zachinac chic. xere
-<lb n="35"/>curi mixuꜩinic chiconohel <rs ana="AJAW_K'ICHE'">qui<pc> –</pc>
+<lb n="35"/>curi mixuꜩinic chiconohel <rs ana="TINAMIT_K'ICHE'">qui<pc> –</pc>
 <lb n="36"/>che</rs> <rs ana="SANTA_CRUZ"><choice><abbr type="superscription">Sta.</abbr><expan instant="false">Santa</expan></choice> Cruz</rs> vbi.
 <lb/>
 <lb/>
