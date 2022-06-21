@@ -471,7 +471,7 @@ cap.
 <lb n="47"/>qhauic ronohel qui quebal<pc> –</pc>
 <pb xml:id="xom-f05-s1"/>
 <lb n="1"/>quixot, qui lac, qui boh, qui ꜩi
-<lb n="2"/>quieaa, haruh pala ronohel
+<lb n="2"/>qui<rs ana="KA'">kaa</rs>, haruh pala ronohel
 <note place="margin-left" anchored="true">
 <del cert="high" instant="false" status="unremarkable">
 <num rend="large">1</num>
@@ -6288,7 +6288,7 @@ cap.
 <lb/>
 <lb/>
 <pb corresp="xom-f05-s1"/>
-<lb n="1"/>caxetes, ollas, perros, y tínajas. todos quan<pc> –</pc>
+<lb n="1"/>caxetes, <rs ana="KA'">ollas</rs>, perros, y tínajas. todos quan<pc> –</pc>
 <note place="margin-right" anchored="true"><del cert="low" instant="false" status="unremarkable"><num rend="large">5</num></del></note>
 <lb n="2"/>tos <hi rend="underline">ubo</hi> les afrentaron, y les dixeron, muy mal
 <note place="margin-middle" anchored="true"><num rend="large">4</num></note>
