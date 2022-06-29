@@ -2296,7 +2296,7 @@ cap.
 <lb n="10"/>cunah tana vbacanu vach nabe
 <lb n="11"/>cate cut xchinbÿh xqhari <rs ana="WAK">vac</rs>
 <lb n="12"/>vꜩ bala xeqhacut cate xquelezah
-<lb n="13"/>zcaquin rih quic ri <rs ana="CHAAJ">chaah</rs> xquicoh
+<lb n="13"/>zcaquin rih <rs ana="KIK'">quic</rs> ri <rs ana="CHAAJ">chaah</rs> xquicoh
 <lb n="14"/>chiv vach ri <rs ana="WAK">vac</rs> <rs ana="LOTZ_KIK'">loꜩ quic</rs> xubi<pc> –</pc>
 <lb n="15"/>naah cumal libah chicut xca<pc> –</pc>
 <lb n="16"/>choh cumal vꜩ chic vmucubal ri
@@ -2487,12 +2487,12 @@ cap.
 <lb n="46"/>xoponic vꜩbala xeqha cut ma
 <lb n="47"/>cu xquiꜩih richah xa ꜫaꜫahv
 <pb xml:id="xom-f25-s1"/>
-<note  place="margin-left" type="pagination" anchored="true">
+<note place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">25</hi></num>
 </note>
 <lb n="1"/>que xvach xoquic, are vhe caquix
 <lb n="2"/>que heri chah xquilo varanel. are
-<lb n="3"/>chicuri zic xa ꜫaꜫa chicop xquicoho
+<lb n="3"/><note place="margin-left" type="correction" anchored="true">chi</note>curi zic xa ꜫaꜫa chicop xquicoho
 <lb n="4"/>chuvi zic hunacab chiyocouic cu<pc> –</pc>
 <lb n="5"/>mal mi xecachaco xeqha varanel
 <lb n="6"/>macuhabi xquiz ri chah xavi xe
@@ -2505,8 +2505,8 @@ cap.
 <lb n="13"/>vꜩ caquibano chi que, halan qui
 <lb n="14"/>vach halan naipu qui qoheic xe
 <lb n="15"/>qha chiquibil quib. ta xetacon cut
-<lb n="16"/>conohel ahauab oho chahoc ix
-<lb n="17"/><rs ana="KA'IB_K'AJOLAB'">qaholab</rs> xevqhaxic ta xeꜩonox
+<lb n="16"/>conohel ahauab oho chahoc <rs ana="KA'IB_K'AJOLAB'">ix
+<lb n="17"/>qaholab</rs> xevqhaxic ta xeꜩonox
 <lb n="18"/>cut rumal <rs ana="JUN_KAME'">hun came</rs>, <rs ana="WUQUB'_KAME'">vvcub came</rs>
 <lb n="19"/>apa quix ixpevi chibÿh tah <rs ana="KA'IB_K'AJOLAB'">ixqa<pc> –</pc>
 <lb n="20"/>holab</rs> xqha cut <del rend="overstrike" instant="false" status="unremarkable">mavi que
@@ -2514,35 +2514,35 @@ cap.
 <lb n="22"/>xohpe vilo maui que taam xaxe
 <lb n="23"/>qha maui xquibÿ vꜩbala xaca
 <lb n="24"/>be caca<rs ana="CHAAJ">chaah</rs> <rs ana="KA'IB_K'AJOLAB'">ixqaholab</rs> xe
-<lb n="25"/>qha chi que vꜩ xechare
-<lb n="26"/>ba chicacoh ri va <rs ana="KIK'">ca 
-<lb n="27"/>quic</rs> xeqha. matah areta chi coh
-<lb n="28"/>va que xeqha <rs ana="KA'IB_K'AJOLAB'">qaholab</rs>. maha 
-<lb n="29"/>bi are chicacoh va que xeqha
-<lb n="30"/>chic. vꜩ bala xeqha
-<lb n="32"/><rs ana="KA'IB_K'AJOLAB'">qaholab</rs> hebala xahuchil xe
-<lb n="32.1"/>qha , mabala xa holom
-<lb n="33"/>coh qhachic xeqha <rs ana="KA'IB_K'AJOLAB'">qaholab</rs> ma
-<lb n="34"/>habi xeqha vꜩ bala
-<lb n="35"/>xqha ta xzac cu vloc
-<lb n="36"/>rumal quicutacal chu
-<lb n="37"/>vach <rs ana="B'ATE">vbate</rs> cate puch
-<lb n="38"/>ta xquil ri zaquitoc
-<lb n="39"/>ta xel chupan riquic chiꜩini<pc> –</pc>
+<lb n="25"/>qha <rs ana="XIB'ALB'A">xibalba</rs> chi que vꜩ xechare
+<lb n="26"/>ba chicacoh ri va <rs ana="KIK'">ca quic</rs><add><hi rend="bold" color="black">_</hi></add>xeqha
+<lb n="27"/><rs ana="XIB'ALB'A">xibalba</rs> matah areta chi coh
+<lb n="28"/>va que<add><hi rend="bold" color="black">_</hi></add>xeqha <rs ana="KA'IB_K'AJOLAB'">qaholab</rs>. maha 
+<lb n="29"/>bi are chicacoh va que<add><hi rend="bold" color="black">_</hi></add>xeqha
+<lb n="30"/>chic <rs ana="XIB'ALB'A">xibalba</rs>. vꜩ bala<add><hi rend="bold" color="black">_</hi></add>xeqha
+<lb n="32"/><rs ana="KA'IB_K'AJOLAB'">qaholab</rs> hebala xahuchil<add><hi rend="bold" color="black">_</hi></add>xe
+<lb n="32.1"/>qha <rs ana="XIB'ALB'A">xibalba</rs>, mabala xa holom
+<lb n="33"/>coh<add><hi rend="bold" color="black">_</hi></add>qhachic xeqha <rs ana="KA'IB_K'AJOLAB'">qaholab</rs><add><hi rend="bold" color="black">_</hi></add>ma
+<lb n="34"/>habi xeqha <rs ana="XIB'ALB'A">xibalba</rs><add><hi rend="bold" color="black">_</hi></add>vꜩ bala
+<lb n="35"/>xqha <rs ana="JUNAJPU">hun ahpu</rs> ta xzac cu vloc
+<lb n="36"/>rumal <rs ana="XIB'ALB'A">xibalba</rs> quicutacal chu
+<lb n="37"/>vach <rs ana="B'ATE">vbate</rs> <rs ana="JUNAJPU">hun ahpu</rs> cate puch
+<lb n="38"/>ta xquil <rs ana="XIB'ALB'A">xibalba</rs> ri zaquitoc
+<lb n="39"/>taxel chupan ri<rs ana="KIK'">quic</rs> chiꜩini<pc> –</pc>
 <lb n="40"/>nic xbe he chua tac vleuh
-<lb n="41"/>ri <rs ana="CHAAJ">chaa</rs>. naquipala 
-<lb n="42"/>xqha ri que xa ca<pc> –</pc>
-<lb n="43"/>mic quivah chi que ch mata
+<lb n="41"/>ri <rs ana="CHAAJ">chaa</rs>. naquipala xqha rí
+<lb n="42"/><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XB'ALAMQ'E">xbalanque</rs> xa ca<pc> –</pc>
+<lb n="43"/>mic quivah chiqu ech mata
 <lb n="44"/>xohbe itaca, matapu xbei<rs ana="USAMAJEL_XIB'ALB'A">za<pc> –</pc>
-<lb n="45"/>mahel</rs> quiꜩih tocob ca vach
+<lb n="45"/>mahel</rs> quiꜩih tocob cavach
 <lb n="46"/>xacohbec xeqha <rs ana="KA'IB_K'AJOLAB'">qaholab</rs> chi<pc> –</pc>
-<lb n="47"/>que. are tacu xahauax chi que
+<lb n="47"/>que are tacu xahauax chi que
 <pb xml:id="xom-f25-s2"/>
 <note place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">25</hi></num>
 </note>
-<lb n="1"/><rs ana="KA'IB_K'AJOLAB'">qaholab</rs> huzu ta xcam rihun chi
-<lb n="2"/>ri chiri chi cha xechacatah tah
+<lb n="1"/><rs ana="KA'IB_K'AJOLAB'">qaholab</rs> huzu ta xcam <hi rend="strikethrough">rihun chi</hi>
+<lb n="2"/>ri chiri chicha xechacatah tah
 <lb n="3"/>maui que he xa <rs ana="XIB'ALB'A">xibalba</rs> xecha<pc> –</pc>
 <lb n="4"/>catah chic cumal <rs ana="KA'IB_K'AJOLAB'">qaholab</rs> maba
 <lb n="5"/>quixbec <rs ana="KA'IB_K'AJOLAB'">ixqaholab</rs> coh<rs ana="CHAAJ">chah</rs> na
@@ -2857,7 +2857,7 @@ cap.
 <lb n="4"/>qui cabichal cate cut xcaca<pc> –</pc>
 <lb n="5"/>tah ri <rs ana="Q'OQ">coc</rs> rumal <rs ana="XB'ALAMQ'E">xbalanque</rs>
 <lb n="6"/>chi pucabin ri <rs ana="Q'OQ">coc</rs> xcah <rs ana="JOM">pa ho<pc> –</pc>
-<lb n="7"/>m</rs> zaquiram curi vzaquilal
+<lb n="7"/>m</rs> zaquiram curi <rs ana="SAKIL">vzaquilal</rs>
 <lb n="8"/>chiqui vach. na qui pa ri chibe
 <lb n="9"/>icama apa qo vi ri camol re
 <lb n="10"/>xqha <rs ana="XIB'ALB'A">xibalba</rs>. quehe cut qui
@@ -8024,7 +8024,7 @@ cap.
 <lb n="16"/>la pelota</rs> <rs ana="JOM">al cementerío</rs>, y estaba muy
 <lb n="17"/>lexos donde fueron a jugar <rs ana="KA'IB_K'AJOLAB'">ellos</rs> solos.
 <lb n="18"/>y barríeron, y límpíaron <rs ana="JOM">el cementerío</rs>
-<lb n="19"/>de sus Padres. y oyendo los <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> deel <rs ana="XIB'ALB'A">ín
+<lb n="19"/>de <rs ana="JUN_JUNAJPU">sus Padres</rs>. y oyendo los <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> deel <rs ana="XIB'ALB'A">ín
 <lb n="20"/>fíerno</rs>
 <del rend="scribble" instant="false" status="unremarkable">œ</del>esto díxeron: quíenes son es<pc> –</pc>
 <lb n="21"/>tos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> otra vez empezaron <rs ana="CHAAJ">a jugar</rs> sobre
@@ -8236,8 +8236,8 @@ cap.
 <lb n="25"/>le díxo <rs ana="CH'AMIYA_BAQ">chamía <del rend="overwritten" instant="false" status="unremarkable">b</del>uc</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te mordío <rs ana="CH'AMIYA_JOLOM">cha<pc> –</pc>
 <lb n="26"/>mía holom</rs>? y mordíendo <rs ana="XIK">al vndeçí<pc> –</pc>
 <lb n="27"/>mo</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dixo: ay le díxo <rs ana="CH'AMIYA_JOLOM">chamía holom</rs>
-<lb n="28"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te mordío? y mordío al duodeçí<pc> –</pc>
-<lb n="29"/>mo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dixo ay ledixo otra uez. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te mor<pc> –</pc>
+<lb n="28"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te mordío? y mordío <rs ana="PATAN">al duodeçí<pc> –</pc>
+<lb n="29"/>mo</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dixo ay ledixo otra uez. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te mor<pc> –</pc>
 <lb n="30"/>dío <rs ana="PATAN">patan</rs>? y mordíendo al <rs ana="KIK'_RE">terçío de
 <lb n="32"/>çímo</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dixo ay. le dixo otra vez: <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te
 <lb n="32.1"/>mordío <rs ana="KIK'_RE">quíc xíc</rs>. le díjo <rs ana="PATAN">patan</rs>. y mor
@@ -8338,12 +8338,12 @@ cap.
 <lb n="20"/>adonde venímos, y no lo díxeron. esta
 <lb n="21"/>bíen díxeron <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs> a 
 <lb n="22"/>ea vamos a jugar a <rs ana="CHAAJ">la pelota</rs> <rs ana="KA'IB_K'AJOLAB'">manze<pc> –</pc>
-<lb n="23"/>bos</rs>. donde echaremos esta nuestra <rs ana="KA'IB_K'AJOLAB'">">pe<pc> –</pc>
+<lb n="23"/>bos</rs>. donde echaremos esta nuestra <rs ana="KIK'">pe<pc> –</pc>
 <lb n="24"/>lota de vle</rs> díxeron <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs>?
-<lb n="25"/>de nínguna suerte esa vuestra echa<pc> –</pc>
+<lb n="25"/>de nínguna suerte <rs ana="KIK'">esa vuestra</rs> echa<pc> –</pc>
 <lb n="26"/>reís díxeron los <rs ana="KA'IB_K'AJOLAB'">mançebos</rs>. y díxe<pc> –</pc>
 <lb n="27"/>ron <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs> de níngun mo<pc> –</pc>
-<lb n="28"/>do esa síno la nuestra. esta bíen, díxe<pc> –</pc>
+<lb n="28"/>do esa síno <rs ana="KIK'">la nuestra</rs>. esta bíen, díxe<pc> –</pc>
 <lb n="29"/>ron los <rs ana="KA'IB_K'AJOLAB'">mançebos</rs>. ea sea este gusaní<pc> –</pc>
 <lb n="30"/>o, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llama chíl. díxeron <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfierno</rs>,
 <lb n="31"/>no era díxeron <rs ana="KA'IB_K'AJOLAB'">los muchachos</rs>,
@@ -8374,8 +8374,8 @@ cap.
 <lb n="5"/>ron juguemos a <rs ana="CHAAJ'">la pelota</rs>, echaremos
 <lb n="6"/>la vuestra, les fue dicho a los <rs ana="KA'IB_K'AJOLAB'">mançebos</rs>.
 <lb n="7"/>y díxeron esta bíen. y luego echaron
-<lb n="8"/>su <rs ana="KIK'">vle</rs>, y luego se acabo el juego de
-<lb n="9"/><rs ana="CHAAJ">pelota</rs>. y díxeron <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="8"/>su <rs ana="KIK'">vle</rs>, y luego se acabo <rs ana="CHAAJ">el juego de
+<lb n="9"/>pelota</rs>. y díxeron <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="10"/>haremos para vencerlos? y les díxeron
 <lb n="11"/>alos <rs ana="KA'IB_K'AJOLAB'">mançebos</rs> nos tra eran quarto hí<pc> –</pc>
 <lb n="12"/>caras de <rs ana="KOTZ'I'J">flores</rs>. estabíen díxeron los
@@ -8400,7 +8400,7 @@ cap.
 <lb n="31"/>os hemos ganado, les fue dícho a <rs ana="JUNAJPU">hun
 <lb n="32"/>ahpu</rs> y a que, por <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfí<pc> –</pc>
 <lb n="33"/>erno</rs>. esta bíen díxeron esta
-<lb n="34"/>noche pelotearemos, díxeron quando
+<lb n="34"/>noche <rs ana="CHAAJ">pelotearemos</rs>, díxeron quando
 <lb n="35"/>se pactaron. y entrando luego <rs ana="KA'IB_K'AJOLAB'">los man<pc> –</pc>
 <lb n="36"/>çebos</rs> en <rs ana="CHAYIM_JA">la casa de las nauajas</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> era el
 <lb n="37"/>segundo castígo de <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs>, esto
@@ -8409,7 +8409,7 @@ cap.
 <lb n="40"/>rían; pero no muríeron, y entonces dí<pc> –</pc>
 <lb n="41"/>xeron alos chayes, y les mandaron
 <lb n="42"/>auosotros tocaran tods las carnes de los
-<lb n="43"/>animals, les díxeron a los chaís, y nose
+<lb n="43"/>animales, les díxeron a los chaís, y nose
 <lb n="44"/>menearon mas, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estuuíeron que
 <lb n="45"/>dos todos y así estaban en <rs ana="CHAYIM_JA">la casa de
 <lb n="46"/>las nauajas</rs> a que lla noche. y entonzes
@@ -8457,8 +8457,8 @@ cap.
 <lb n="40"/>colmadas de <rs ana="KOTZ'I'J">flores</rs>, y llegaron
 <lb n="41"/>ante el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>y <rs ana="RAJAWAL_XIB'ALB'A">los Señores</rs> tomaron las
 <lb n="42"/><rs ana="KOTZ'I'J">flores</rs>, muy suaves. y así fueron ven
-<lb n="43"/>çídos <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs>. y solas hor<pc> –</pc>
-<lb n="44"/>mígas embíaron <rs ana="KA'IB_K'AJOLAB'">los mançebos</rs>
+<lb n="43"/>çídos <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs>. y solas <rs ana="SANIK">hor<pc> –</pc>
+<lb n="44"/>mígas</rs> embíaron <rs ana="KA'IB_K'AJOLAB'">los mançebos</rs>
 <lb n="45"/>y en una noche cortaron <rs ana="SANIK">las hormigas</rs>
 <lb n="46"/><rs ana="KOTZ'I'J">las flores</rs>, y las pusieron en <rs ana="TZIMA">las hícaras</rs>
 <lb n="47"/>y así se espantaron todos <rs ana="RAJAWAL_XIB'ALB'A">los deelínfí<pc> –</pc>
@@ -8481,9 +8481,9 @@ cap.
 <lb n="15"/>y juntamente jugaban, y luego
 <lb n="16"/>pararon de <rs ana="CHAAJ">jugar ala pelota</rs> se
 <lb n="17"/>auísaron, y çítaron vnos a otros <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
-<lb n="18"/>ala mañana auían de jugar otra
+<lb n="18"/>ala mañana auían de <rs ana="CHAAJ">jugar</rs> otra
 <lb n="19"/>vez. esta bíen díxeron los <rs ana="KA'IB_K'AJOLAB'">mançebos</rs>
-<lb n="20"/>quando dexaron el juego.
+<lb n="20"/>quando dexaron <rs ana="CHAAJ">el juego</rs>.
 </p>
 <p corresp="#p32">
 <lb n="21"/>y entraron en <rs ana="XUXULIM_JA">la casa de el frío</rs>, no era sufrí<pc> –</pc>
@@ -8496,10 +8496,10 @@ cap.
 <lb n="28"/>y no fue así, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> buenos estaban
 <lb n="29"/>quando amaneçío, y estaban atentos
 <lb n="30"/>los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> les víníeron a llamar, y fueronse
-<lb n="31"/>los guardas, y díxo el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>de el ínfí<pc> –</pc>
-<lb n="32"/>erno, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es esto como no han muer<pc> –</pc>
+<lb n="31"/>los guardas, y díxo <rs ana="RAJAWAL_XIB'ALB'A">el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>de el ínfí<pc> –</pc>
+<lb n="32"/>erno</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es esto como no han muer<pc> –</pc>
 <lb n="33"/>to y se maravíllaron otra vez de
-<lb n="34"/>los prodígíos de, y de
+<lb n="34"/>los prodígíos de <rs ana="JUNAJPU">hunahpu</rs>, y de
 <lb n="35"/><rs ana="XB'ALAMQ'E">xbalanque</rs>.
 <lb/>
 </p>
@@ -8518,7 +8518,7 @@ cap.
 <note place="margin-right" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">27</hi></num>
 </note>
-<lb n="1"/>todos, y estaban alegres de a que lla, mas
+<lb n="1"/>todos, y estaban alegres de aquella, mas
 <lb n="2"/>no murieron. y así mesmo salíeron bu<pc> –</pc>
 <lb n="3"/>enos de <rs ana="B'ALAM_JA">la casa de los tígres</rs>. y díxeron
 <lb n="4"/><rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs>: <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> genero de hombres
@@ -8544,8 +8544,8 @@ cap.
 <lb n="18"/>como chaquíꜩan, era su matanza.
 <lb n="19"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> luego pereçían los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> llegan asu pre<corr instant="false"><pc> –</pc></corr>
 <lb n="20"/>sençía. y allí estuvíeron dentro; pe<pc> –</pc>
-<lb n="21"/>ro durmíeron dentro desus çerua<pc> –</pc>
-<lb n="22"/>tanas, y no fueron mordídos por los
+<lb n="21"/>ro durmíeron dentro desus <rs ana="WUB">çerua<pc> –</pc>
+<lb n="22"/>tanas</rs>, y no fueron mordídos por los
 <lb n="23"/>muerçíelagos, y allí se estuuíeron por
 <lb n="24"/>vn grande murçíelago, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> vino de
 <lb n="25"/>el çíelo, y se manifesto quando fue
@@ -8555,15 +8555,15 @@ cap.
 <lb n="29"/>díçíendo toda la noche. y parando
 <lb n="30"/>todos, ya ní vno de los murçíelagos
 <lb n="31"/>se mouía, estauan pegados ala pun
-<lb n="32"/>ta de la zeruatana y díxo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
-<lb n="33"/>a . ya aura quízas amane<pc> –</pc>
+<lb n="32"/>ta de <rs ana="WUB">la zeruatana</rs> y díxo <rs ana="XB'ALAMQ'E">xbalan<choice><abbr>q'</abbr><expan instant="false">que</expan></choice></rs>
+<lb n="33"/>a <rs ana="JUNAJPU">hunahpu</rs>. ya aura quízas amane<pc> –</pc>
 <lb n="34"/>çído, veamos, y que ríendo ver sa
-<lb n="35"/>co la cabeza <rs ana="WOK">ala</rs> a dela çerua<pc> –</pc>
-<lb n="36"/>tana, que ría ver sí auía amane<pc> –</pc>
+<lb n="35"/>co la cabeza ala voca a de<rs ana="WUB">la çerua<pc> –</pc>
+<lb n="36"/>tana</rs>, quería ver sí auía amane<pc> –</pc>
 <lb n="37"/>çído, y luego fue cortada la cabe<pc> –</pc>
 <lb n="38"/>za por el qamazoꜩ. que dando solo
 <lb n="39"/>el cuerpo de díxo el otro
-<lb n="40"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> ay a amanecido dixo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="40"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> ay a amanecido dixo <rs ana="XB'ALAMQ'E">xbalan<choice><abbr>q’</abbr><expan instant="false">que</expan></choice></rs>
 <lb n="41"/>pero nose meneaba <rs ana="JUNAJPU">hunahpu</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="42"/>hasído esto díxo sí seacaído <rs ana="JUNAJPU">hun
 <lb n="43"/>ahpu</rs>
@@ -8572,14 +8572,14 @@ cap.
 <pb corresp="xom-f27-s2"/>
 <lb n="1"/>como ha sído esto, y ya nose mouía, sí<pc> –</pc>
 <lb n="2"/>no <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se estaba acostado, y luego se
-<lb n="3"/>espanto el que ay ay desdí<pc> –</pc>
+<lb n="3"/>espanto <rs ana="XB'ALAMQ'E">el xbalanque</rs> ay ay desdí<pc> –</pc>
 <lb n="4"/>chado, esto díxo. y luego fueron apo<pc> –</pc>
 <lb n="5"/>ner la cabeza <rs ana="JOM">al cementerío</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> así
-<lb n="6"/>lo auía ordenado el <rs ana="JUN_KAME''">hun came</rs>. y <rs ana="WUQUB'_KAME'">v<pc> –</pc>
+<lb n="6"/>lo auía ordenado <rs ana="JUN_KAME''">el hun came</rs>. y <rs ana="WUQUB'_KAME'">v<pc> –</pc>
 <lb n="7"/>ucub came</rs>. y alegrandose todos <rs ana="RAJAWAL_XIB'ALB'A">los
 <lb n="8"/>de el ínfierno</rs> por la cabeza de <rs ana="JUNAJPU">hun
 <lb n="9"/>ahpu</rs>. y luego llamando a todos los
-<lb n="10"/>animals <rs ana="SIS">al pízote</rs>, <rs ana="AQ">al puerco</rs>, a todos
+<lb n="10"/>animales <rs ana="SIS">al pízote</rs>, <rs ana="AQ">al puerco</rs>, a todos
 <lb n="11"/>chícos, y grandes ala noche, y ala
 <lb n="12"/>mañana les díxo os he llamado pa
 <lb n="13"/>señalaros vuestra comída acada
@@ -8591,7 +8591,7 @@ cap.
 <lb n="19"/>tomaron la podredumbre, porcomí<pc> –</pc>
 <lb n="20"/>da, otros yeruas, otros píedras, otros
 <lb n="21"/>tíerra díferentes fueron las comídas
-<lb n="22"/>delos animals grandes, y chícos. y
+<lb n="22"/>delos animales grandes, y chícos. y
 <lb n="23"/>alo vltímo víno. y a vno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> era <rs ana="Q'OQ">tortu<pc> –</pc>
 <lb n="24"/>ga</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> venía dando bueltas atomar
 <lb n="25"/>sucomída, y este se puso en lugar
