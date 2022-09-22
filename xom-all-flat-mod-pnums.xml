@@ -3380,7 +3380,7 @@ cap.
 <lb n="7"/>quetamah ronohel xecah vue
 <lb n="8"/>quemucunic libah chi chiqui<pc> –</pc>
 <lb n="9"/>zol vachih chizolmucuh puch
-<lb n="10"/>vpam cah upam vleu mahu<pc> –</pc>
+<lb n="10"/><rs ana="PAM_KAJ_UPAM_ULEW">vpam cah upam vleu</rs> mahu<pc> –</pc>
 <lb n="11"/>catahil na chiquilixtah rono<pc> –</pc>
 <lb n="12"/>hel maquebin tanaon nabe
 <lb n="13"/>cate ta chiquil ri vxecah xavi
@@ -3416,7 +3416,7 @@ cap.
 <lb n="41"/>qha taxquicamouah quiꜩaquic
 <lb n="42"/>quibitic. xquiz quetamah rono<pc> –</pc>
 <lb n="43"/>hel xquimucuh cah ꜩuc cah xu
-<lb n="44"/>cut vpam cah vpam vleu ma<pc> –</pc>
+<lb n="44"/>cut <rs ana="PAM_KAJ_UPAM_ULEW">vpam cah vpam vleu</rs> ma<pc> –</pc>
 <lb n="45"/>cuvꜩ xquitao ri<rs ana="TZ'AQOL">ahꜩac</rs> <rs ana="B'ITOL">ahbit</rs>
 <lb n="46"/>mavi vꜩ ri mixquibÿh caꜩac ca
 <lb n="47"/>bit mixquetamah ronohel nim
@@ -5542,7 +5542,7 @@ cap.
 <lb n="33"/><rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs> <rs ana="Q'ALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ah<pc> –</pc>
 <lb n="34"/>ꜩic vinac</rs> e ca cab ta queoquic
 <lb n="35"/>quehalou quib chireealixic a
-<lb n="36"/>mac ruq ronohel queche vinac
+<lb n="36"/>mac ruq ronohel <rs ana="TINAMIT_K'ICHE'">queche vinac</rs>
 <lb n="37"/>xahun xel vi vxeꜩih vxepu<pc> –</pc>
 <lb n="38"/>ch ꜩucuh cooh xavi vxe ꜩih. xa
 <lb n="39"/>ui quehe cubano <rs ana="TAMUB'">tamub</rs><rs ana="ILOKAB'">ilocab</rs>
@@ -11340,20 +11340,20 @@ cap.
 <lb n="18"/>tus sustentados, y alímentados en tu pre<pc> –</pc>
 <lb n="19"/>sençía, <rs ana="UK'U'X_KAJ">tu coraçon de el çíelo</rs>, <rs ana="UK'U'X_ULEW">tu corazon
 <lb n="20"/>de la tierra</rs>, tu <rs ana="PISOM_Q'AQ'AL">emboltorío de gloría</rs>, tu
-<lb n="21"/><rs ana="TOJIL">tohíl</rs> <rs ana="AWILIX">auílix</rs>, <rs ana="JAQAWITZ">hacauíꜩ</rs> víentre de el ci<pc> –</pc>
+<lb n="21"/><rs ana="TOJIL">tohíl</rs> <rs ana="AWILIX">auílix</rs>, <rs ana="JAQAWITZ">hacauíꜩ</rs> <rs ana="PAM_KAJ_UPAM_ULEW">víentre de el ci<pc> –</pc>
 <lb n="22"/>elo, víentre de la tíerra, y quatro esquí<pc> –</pc>
-<lb n="23"/>nas. solo aya paz en tu presençía tu ído<pc> –</pc>
+<lb n="23"/>nas</rs>. solo aya paz en tu presençía tu ído<pc> –</pc>
 <lb n="24"/>lo. así deçían los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>quando ayu<pc> –</pc>
 <lb n="25"/>naban aquellos nueue, treze, y díez
 <lb n="26"/>y síete hombres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ayunaban lloran<pc> –</pc>
 <lb n="27"/>do sus corazones los días sobre sus va<pc> –</pc>
 <lb n="28"/>sallos, y tambíen sobre sus mugeres
 <lb n="29"/>y sus híjos. quando híçíeron su <choice><abbr>offo</abbr><expan instant="false">oferta</expan></choice> <note resp="editor">Superscript + abbr? </note>.
-<lb n="30"/>cadavnodelos<choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> yesteerelpre<pc> –</pc>
+<lb n="30"/>cadavnode<rs ana="Q'ALEL">los<choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice></rs> yesteerelpre<pc> –</pc>
 <lb n="31"/>cío con <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se compraba la clarídad, y
 <lb n="32"/>la vída, y con <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se compraba el Seño<pc> –</pc>
-<lb n="33"/>río, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era el mando de los príçípa<pc> –</pc>
-<lb n="34"/>les, y <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> y dedos en dos lloraban, y
+<lb n="33"/>río, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era el mando de <rs ana="AJTZIK_WINAQ">los príçípa<pc> –</pc>
+<lb n="34"/>les, y <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice></rs> y dedos en dos lloraban, y
 <lb n="35"/>se remudaban a lleuar asus hombres
 <lb n="36"/>el pueblo; con todos <rs ana="TINAMIT_K'ICHE'">los quiches</rs>. y vno
 <lb n="37"/>fue el prínçípío de las tradíçíones, y 
