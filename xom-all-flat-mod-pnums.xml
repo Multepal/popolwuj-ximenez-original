@@ -5409,7 +5409,7 @@ cap.
 <lb n="7"/>yub xa hun xecuchvi.
 </p>
 <p xml:id="p84">
-<lb n="8" rend="indent"/><rs ana="XE_BALAX">Xebalax</rs>, <rs ana="XE_KAMAQ">xecamac</rs> vbi huyub
+<lb n="8" rend="indent"/><rs ana="XE'_B'ALAX">Xebalax</rs>, <rs ana="XE'_K'A'MAQ">xecamac</rs> vbi huyub
 <lb n="9"/>xechap vi taxoc qui calem chiri
 <lb n="10"/><rs ana="CHULIMAL">chulimal</rs> xbanvi
 </p>
@@ -5420,7 +5420,7 @@ cap.
 <lb n="14"/>pop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs> rumal puch <rs ana="AJTZIK_WINAQ">ea<pc> –</pc>
 <lb n="15"/>lel ah ꜩic vinac</rs> xoc queealem ro<pc> –</pc>
 <lb n="16"/>nohel <rs ana="Q'ALEL">ealel</rs> <rs ana="AJPOP">ahpop</rs> hulahuh <rs ana="NIMA_CH'OKOJ">nim
-<lb n="17"/>chocoh</rs> <rs ana="AJAW_Q'ALEL">ealel ahau</rs> <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>, <rs ana="Q'ALEL_ACHIJ">v
+<lb n="17"/>chocoh</rs> <rs ana="Q'ALEL_AJAW">ealel ahau</rs> <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>, <rs ana="Q'ALEL_ACHIJ">v
 <lb n="18"/>ealel achih</rs>, <rs ana="RAJPOP_ACHIJ">rahpop achih</rs>, <rs ana="RAJTZ'ALAM_ACHIJ">rahꜩa<pc> –</pc>
 <lb n="19"/>lam achih</rs>, <rs ana="UTZA'M_ACHIJ">vꜩam achih</rs>, quibi a
 <lb n="20"/>chihab xoquic taxecobic xebina<pc> –</pc>
@@ -11222,7 +11222,7 @@ cap.
 <lb n="7"/>todos cada vno a su çerro, y se juntaron
 </p>
 <p corresp="#p84">
-<lb n="8"/>en vno. <rs ana="XE_BALAX">xebalax</rs>, <rs ana="XE_KAMAQ">xecamac</rs>, se lla
+<lb n="8"/>en vno. <rs ana="XE'_B'ALAX">xebalax</rs>, <rs ana="XE'_K'A'MAQ">xecamac</rs>, se lla
 <lb n="9"/>maba el çerro donde fueron nombra<pc> –</pc>
 <lb n="10"/>dos, y se les dío le cargo, allá en <rs ana="CHULIMAL">chulímán</rs>.
 </p>
@@ -11232,7 +11232,7 @@ cap.
 <lb n="13"/>tanes</rs><rs ana="AJPOP">de asíento, y casa</rs>, por los <rs ana="WINAQ_AJTZIK"><choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> prín<pc> –</pc>
 <lb n="14"/>çípales</rs>, y se les dío el cargo a todos <rs ana="Q'ALEL">los
 <lb n="15"/>capítanes</rs> <rs ana="NIMA_CH'OKOJ">once grandes combítes</rs>, y
-<lb n="16"/>fueron llamados <rs ana="AJAW_Q'ALEL">ealel ahau</rs>, <rs ana="Q'ALEL_SAQIK">ealel za<pc> –</pc>
+<lb n="16"/>fueron llamados <rs ana="Q'ALEL_AJAW">ealel ahau</rs>, <rs ana="Q'ALEL_SAQIK">ealel za<pc> –</pc>
 <lb n="17"/>quíc</rs>, <rs ana="Q'ALEL_ACHIJ">v ealel achih</rs>, <rs ana="RAJPOP_ACHIJ">rah pop achíh</rs>, <rs ana="RAJTZ'ALAM_ACHIJ">rah
 <lb n="18"/>ꜩalam achíh</rs>, <rs ana="UTZA'M_ACHIJ">v ꜩamachíh</rs>, así se nom<pc> –</pc>
 <lb n="19"/>braron los capítanes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>entraron, y çe<pc> –</pc>
