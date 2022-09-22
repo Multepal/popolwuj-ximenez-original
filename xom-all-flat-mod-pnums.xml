@@ -5313,7 +5313,7 @@ cap.
 <lb n="12"/>rumal vacamic hunhuyub abah
 <lb n="13"/>xzcaquin chic maui xcatatahic que<pc> –</pc>
 <lb n="14"/>heri xchoi chi<rs ana="IKAJ">icah</rs> rumal chila
-<lb n="15"/>qovi patacah <rs ana="PETATAYUB">petatayub</rs> vbi ca<pc> –</pc>
+<lb n="15"/>qovi patacah <rs ana="PETATAYUB'">petatayub</rs> vbi ca<pc> –</pc>
 <lb n="16"/>lah vacamic caril ronohel vinac
 <lb n="17"/>queico vi retal rachihilal <rs ana="K'IKAB'_KQSIETE">qui
 <lb n="18"/>cab</rs>. mahabi xcam vi mapu ha<pc> –</pc>
@@ -5409,7 +5409,7 @@ cap.
 <lb n="7"/>yub xa hun xecuchvi.
 </p>
 <p xml:id="p84">
-<lb n="8" rend="indent"/><rs ana="XE_BALAX">Xebalax</rs>, <rs ana="XE_KAMAQ">xecamac</rs> vbi huyub
+<lb n="8" rend="indent"/><rs ana="XE'_B'ALAX">Xebalax</rs>, <rs ana="XE'_K'A'MAQ">xecamac</rs> vbi huyub
 <lb n="9"/>xechap vi taxoc qui calem chiri
 <lb n="10"/><rs ana="CHULIMAL">chulimal</rs> xbanvi
 </p>
@@ -5420,7 +5420,7 @@ cap.
 <lb n="14"/>pop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs> rumal puch <rs ana="AJTZIK_WINAQ">ea<pc> –</pc>
 <lb n="15"/>lel ah ꜩic vinac</rs> xoc queealem ro<pc> –</pc>
 <lb n="16"/>nohel <rs ana="Q'ALEL">ealel</rs> <rs ana="AJPOP">ahpop</rs> hulahuh <rs ana="NIMA_CH'OKOJ">nim
-<lb n="17"/>chocoh</rs> <rs ana="AJAW_Q'ALEL">ealel ahau</rs> <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>, <rs ana="Q'ALEL_ACHIJ">v
+<lb n="17"/>chocoh</rs> <rs ana="Q'ALEL_AJAW">ealel ahau</rs> <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>, <rs ana="Q'ALEL_ACHIJ">v
 <lb n="18"/>ealel achih</rs>, <rs ana="RAJPOP_ACHIJ">rahpop achih</rs>, <rs ana="RAJTZ'ALAM_ACHIJ">rahꜩa<pc> –</pc>
 <lb n="19"/>lam achih</rs>, <rs ana="UTZA'M_ACHIJ">vꜩam achih</rs>, quibi a
 <lb n="20"/>chihab xoquic taxecobic xebina<pc> –</pc>
@@ -5441,8 +5441,8 @@ cap.
 <p xml:id="p86">
 <lb n="34" rend="indent"/><hi rend="large">A</hi>recut xchicabÿhchic vbiro
 <lb n="35"/>choch cabauil xavi xere xubi<pc> –</pc>
-<lb n="36"/>naah rochoch ri vbi cabauil ni<pc> –</pc>
-<lb n="37"/>mac ꜩac <rs ana="TOJIL">tohil</rs> vbi ꜩac rochoch <rs ana="TOJIL">to<pc> –</pc>
+<lb n="36"/>naah rochoch ri vbi cabauil <rs ana="NIMA'Q_TZ'AQ_TOJIL">ni<pc> –</pc>
+<lb n="37"/>mac ꜩac tohil</rs> vbi ꜩac rochoch <rs ana="TOJIL">to<pc> –</pc>
 <lb n="38"/>hil</rs> rech <rs ana="KAWEQ">cauiquib</rs> <rs ana="AWILIX">avlix</rs> cut vbi ꜩac
 <lb n="39"/>rochoch <rs ana="AWILIX">aulix</rs> rech <rs ana="NIJA'IB">nihaibab</rs>. <rs ana="JAQAWITZ">haca<pc> –</pc>
 <lb n="40"/>viꜩ</rs> chi cut vbi ꜩac rochoch vcabauil
@@ -11127,7 +11127,7 @@ cap.
 <lb n="13"/>de el pueblo, y agora esta vn zero de pí<pc> –</pc>
 <lb n="14"/>edra <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>casi esta trocado, como sí fuera
 <lb n="15"/>con <rs ana="IKAJ">hacha</rs>. y esta alla en la costa, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
-<lb n="16"/>llama <rs ana="PETATAYUB">petayub</rs>. y agora esta patente a
+<lb n="16"/>llama <rs ana="PETATAYUB'">petayub</rs>. y agora esta patente a
 <lb n="17"/>todos los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> por allí pasan, y lo uen. en señal
 <lb n="18"/>de la fortaleza de <rs ana="K'IKAB'_KQSIETE">quícab</rs>. y no lo pu<pc> –</pc>
 <lb n="19"/>díeron matar, ní vençer, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> era valí<pc> –</pc>
@@ -11222,7 +11222,7 @@ cap.
 <lb n="7"/>todos cada vno a su çerro, y se juntaron
 </p>
 <p corresp="#p84">
-<lb n="8"/>en vno. <rs ana="XE_BALAX">xebalax</rs>, <rs ana="XE_KAMAQ">xecamac</rs>, se lla
+<lb n="8"/>en vno. <rs ana="XE'_B'ALAX">xebalax</rs>, <rs ana="XE'_K'A'MAQ">xecamac</rs>, se lla
 <lb n="9"/>maba el çerro donde fueron nombra<pc> –</pc>
 <lb n="10"/>dos, y se les dío le cargo, allá en <rs ana="CHULIMAL">chulímán</rs>.
 </p>
@@ -11232,7 +11232,7 @@ cap.
 <lb n="13"/>tanes</rs><rs ana="AJPOP">de asíento, y casa</rs>, por los <rs ana="WINAQ_AJTZIK"><choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> prín<pc> –</pc>
 <lb n="14"/>çípales</rs>, y se les dío el cargo a todos <rs ana="Q'ALEL">los
 <lb n="15"/>capítanes</rs> <rs ana="NIMA_CH'OKOJ">once grandes combítes</rs>, y
-<lb n="16"/>fueron llamados <rs ana="AJAW_Q'ALEL">ealel ahau</rs>, <rs ana="Q'ALEL_SAQIK">ealel za<pc> –</pc>
+<lb n="16"/>fueron llamados <rs ana="Q'ALEL_AJAW">ealel ahau</rs>, <rs ana="Q'ALEL_SAQIK">ealel za<pc> –</pc>
 <lb n="17"/>quíc</rs>, <rs ana="Q'ALEL_ACHIJ">v ealel achih</rs>, <rs ana="RAJPOP_ACHIJ">rah pop achíh</rs>, <rs ana="RAJTZ'ALAM_ACHIJ">rah
 <lb n="18"/>ꜩalam achíh</rs>, <rs ana="UTZA'M_ACHIJ">v ꜩamachíh</rs>, así se nom<pc> –</pc>
 <lb n="19"/>braron los capítanes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>entraron, y çe<pc> –</pc>
@@ -11253,11 +11253,11 @@ cap.
 </p>
 <p corresp="#p86">
 <lb n="33"/>y agora díremos otra vez de el nom<pc> –</pc>
-<lb n="34"/>bre de la casa de el ídolo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así mesmo
-<lb n="35"/>sellamo su casa de el nombre de el ído<pc> –</pc>
-<lb n="36"/>lo. el grande edífíçío de el <rs ana="TOJIL">tohíl</rs>. fue
-<lb n="37"/>el nombre de el edífíçío de su casa
-<lb n="38"/><rs ana="TOJIL">tohíl</rs> de los de <rs ana="KAWEQ">cauíquíb</rs>.auílíx fue el
+<lb n="34"/>bre de <rs ana="NIMA'Q_TZ'AQ_TOJIL">la casa de el ídolo</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así mesmo
+<lb n="35"/>sellamo su casa de el nombre de <rs ana="TOJIL">el ído<pc> –</pc>
+<lb n="36"/>lo</rs>. <rs ana="NIMA'Q_TZ'AQ_TOJIL">el grande edífíçío de el tohíl</rs>. fue
+<lb n="37"/>el nombre de <rs ana="NIMA'Q_TZ'AQ_TOJIL">el edífíçío de su casa
+<lb n="38"/>tohíl</rs> de los de <rs ana="KAWEQ">cauíquíb</rs>.auílíx fue el
 <lb n="39"/>nombre de el edífíçío casa de <rs ana="AWILIX">auílíx</rs>
 <lb n="40"/>de los de <rs ana="NIJA'IB">níhaíbab</rs>. y <rs ana="JAQAWITZ">hacauíꜩ</rs> fue el
 <lb n="41"/>nombre de el edífíçío de la casa del
