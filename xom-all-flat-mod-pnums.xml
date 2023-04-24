@@ -187,7 +187,7 @@ cap.
 <lb n="13"/>cah vleu, ma ta cut v quihila<pc> –</pc>
 <lb n="14"/>bal vcalaibal rÿ caꜩac ca<pc> –</pc>
 <lb n="15"/>bit ta vinaquiroc vinac ꜩac
-<lb n="16"/>vinac bit xeqha cut ta xvi<pc> –</pc>
+<lb n="16"/>vinac bit xeqha cut <!-- editor's note: Ajtz'ib'ab' puts a paragraph break here --> ta xvi<pc> –</pc>
 <lb n="17"/>naquir cu ri vleu cumal; xa<pc> –</pc>
 <lb n="18"/>quiꜩih xqohe vi v vinaqui<pc> –</pc>
 <lb n="19"/>ric chivinaquir vleu, vleuh
@@ -248,7 +248,7 @@ cap.
 <lb n="23"/>in vi, quixhain vi, chiri quix<pc> –</pc>
 <lb n="24"/>poc vi, quixquiritah vi chu e<pc> –</pc>
 <lb n="25"/>ab che, chueab caam xevqh<pc> –</pc>
-<lb n="26"/>axic <rs ana="KEJ">quieh</rs> <rs ana="TZ'IKIN">ꜩiquin</rs> taxquiba<pc> –</pc>
+<lb n="26"/>axic <rs ana="KEJ">quieh</rs> <rs ana="TZ'IKIN">ꜩiquin</rs><!--editor's note: Ajtz'ib'ab' adds a paragraph here --> taxquiba<pc> –</pc>
 <lb n="27"/>no quibanoh ronohel xuca<pc> –</pc>
 <lb n="28"/>mo v varabal, v yacalibal
 <lb n="29"/>quehe cut cochoch vi chicop
@@ -258,7 +258,7 @@ cap.
 </p>
 <p xml:id="p07">
 <lb n="33" rend="indent"/><hi rend="large">T</hi>a xevqhax chicut rÿ <rs ana="KEJ">queh</rs>
-<lb n="34"/><rs ana="TZ'IKIN">ꜩiquin</rs> rumal <rs ana="TZACOL">ꜩacol</rs> <rs ana="B'ITOL">bitol</rs> <rs ana="ALOM">a<pc> –</pc>
+<lb n="34"/><rs ana="TZ'IKIN">ꜩiquin</rs> rumal <rs ana="TZ'AQOL">ꜩacol</rs> <rs ana="B'ITOL">bitol</rs> <rs ana="ALOM">a<pc> –</pc>
 <lb n="35"/>lom</rs>, <rs ana="K'AJOLOM">qaholom</rs>: quixqhauoc ,
 <lb n="36"/>quixziquinoc mi xyonoliqui<pc> –</pc>
 <lb n="37"/>nic, mixziquinic, quixqha va he
@@ -273,7 +273,7 @@ cap.
 <lb n="46"/>uh</rs>, <rs ana="TZ'AQOL">ꜩacol</rs>, <rs ana="B'ITOL">bitol</rs>, <rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">qaholõ</rs>
 <pb xml:id="xom-f03-s1"/>
 <lb n="1"/>quixqhaoc cohiziquih, cohiqui<pc> –</pc>
-<lb n="2"/>hila, xevqhaxic. macu xuꜩinic
+<lb n="2"/>hila, xevqhaxic. <!--editor's note: Ajtz'ib'ab' adds a paragraph here -->macu xuꜩinic
 <lb n="3"/>xeqhauic, queheta ri vinac, xa
 <lb n="4"/>quevachelahic, xa quecaralahic
 <lb n="5"/>xa quevohonic; mavi xvachinic
@@ -281,7 +281,7 @@ cap.
 <lb n="7"/>quibeh chi qui huhunal. ta xqui
 <lb n="8"/>ta ri <rs ana="TZ'AQOL">ꜩacol</rs> <rs ana="B'ITOL">bitol</rs> maui mi xu<pc> –</pc>
 <lb n="9"/>ꜩinic, mi xeqhauic, xeqha chic
-<lb n="10"/>qui bil quib maui mixuꜩin v
+<lb n="10"/>qui bil quib <!-- editor's note: Ajtz'ib'ab' adds a paragraph here --> maui mixuꜩin v
 <add place="margin-left" instant="false" status="unremarkable">chi</add>
 <lb n="11"/>bixic cabi rumal oh cah ꜩac
 <lb n="12"/>oh pu cah bit mavi vꜩ xqha
@@ -310,7 +310,7 @@ cap.
 <lb n="35"/>puch, quehe cut xechacatah
 <lb n="36"/>vi quitiohil, xquipatanih xe
 <lb n="37"/>tÿc, xecamizaxic, ri chicop qo
-<lb n="38"/>varal chuvach vleuh, que
+<lb n="38"/>varal chuvach vleuh<!--editor's note: Ajtz'ib'ab' paragraph -->, que
 <lb n="39"/>he cut v tihtobexic chic vinac
 <lb n="40"/>ꜩac vinac bit cumal <rs ana="TZ'AQOL">ꜩacol</rs>
 <lb n="41"/><rs ana="B'ITOL">bitol</rs> <rs ana="ALOM">alom</rs>, <rs ana="K'AJOLOM">qaholom</rs> xa ca
