@@ -321,7 +321,7 @@ cap.
 <lb n="46"/>chuvach vleuh. mi xcatiho
 <lb n="47"/>chirech rinabe ca ꜩac, ca
 <pb xml:id="xom-f03-s2"/>
-<lb n="1"/>bit maui mi xuꜩinic ca quihilo<pc> –</pc>
+<lb n="1"/>bit <!-- editor's note: Ajtz'ib'ab' adds a paragraph here -->maui mi xuꜩinic ca quihilo<pc> –</pc>
 <lb n="2"/>xic, ca calaixic puch cumal, que<pc> –</pc>
 <lb n="3"/>he cut catiha vi vbanic ah nim
 <lb n="4"/>ah xob ꜩucul, cool xeqha ta v<pc> –</pc>
@@ -333,6 +333,7 @@ cap.
 <lb n="10"/>vmaric, maui chicolol vholó
 <lb n="11"/>xa hum benac vi vvach, xacu<pc> –</pc>
 <lb n="12"/>luvach maui chimucun chirih
+<!-- editor's note:Ajtz'ib'ab' adds a paragraph here -->
 <lb n="13"/>chichau nabec, mahabi vnaoh
 <lb n="14"/>xa huzuc chiumar paha, maui
 <lb n="15"/>qo, xeqha chicuri <rs ana="TZ'AQOL">ah ꜩac</rs> <rs ana="B'ITOL">ah bit</rs>.
@@ -351,7 +352,7 @@ cap.
 <lb n="28"/>tiha chic vquihixic vbitaxic
 <lb n="29"/>xevqhan qui quib <rs ana="TZ'AQOL">ah ꜩac</rs>
 <lb n="30"/><rs ana="B'ITOL">ah bit</rs>. Ta xquibÿh cut chire
-<lb n="31"/><rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs><add instant="false" status="unremarkable">¶</add> cate cut
+<lb n="31"/><rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs><add instant="false" status="unremarkable">¶</add><!--editor's note: Ajtz'ib'ab' paragraph--> cate cut
 <lb n="32"/>vbixic ri chiquech ri enic vachi<pc> –</pc>
 <lb n="33"/>nel, <rs ana="IXMUKANE">ratit quih</rs> <rs ana="IXMUKANE">ratit zac</rs> que
 <lb n="34"/>vqhaxic cumal ri <rs ana="TZ'AQOL">ꜩacol</rs> <rs ana="B'ITOL">bitol</rs>
