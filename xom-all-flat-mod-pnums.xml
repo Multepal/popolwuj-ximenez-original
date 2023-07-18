@@ -4393,7 +4393,7 @@ cap.
 <lb n="15"/>qoheic xeqhacut taxeponic cono<pc> –</pc>
 <lb n="16"/>hel xqha chic chahcar chiquech
 <lb n="17"/>ri amac ta xeqhauic apachina
-<lb n="18"/>rilo queatin chuchi ya huta quih
+<lb n="18"/>rilo queatin <rs ana="CHI_RATINIB'AL_TOJIL">chuchi ya</rs> huta quih
 <lb n="19"/>vve are <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">aulix</rs> <rs ana="JAQAWITZ">hacauiꜩ</rs> are
 <lb n="20"/>ta quecachac na nabe chiri ta cut
 <lb n="21"/>chiticar vi qui chacatahic ri e ah
@@ -4410,7 +4410,7 @@ cap.
 <lb n="32"/>bala xaba quecaꜩucuh eta
 <lb n="33"/>caib chivtxilah <rs ana="IXTAJ_IXPUCH'">tac capohib</rs> xe
 <lb n="34"/>qha cut ta xquiꜩucuh cut qui<pc> –</pc>
-<lb n="35"/>meal. are ri qui ꜩih e zaquilah
+<lb n="35"/><rs ana="IXTAJ_IXPUCH'">meal</rs>. are ri qui ꜩih e zaquilah
 <lb n="36"/>tac <rs ana="IXTAJ_IXPUCH'">capohib</rs> ta xquipixabah cut
 <lb n="37"/>ri <rs ana="IXTAJ_IXPUCH'">capohib</rs> quix bec <rs ana="IXTAJ_IXPUCH'">ixcamial</rs> oh
 <lb n="38"/>ichaha ri cul chi ya. vve cut taque
@@ -4475,13 +4475,13 @@ cap.
 </p>
 <p>
 <pb xml:id="xom-f44-s2"/>
-<lb n="1"/>ta xeqhau chic chiquech ri xtah
-<lb n="2"/>xpuch quibi re <rs ana="IXTAJ_IXPUCH'">e caib capohib</rs>
+<lb n="1"/>ta xeqhau chic chiquech ri <rs ana="IXTAJ">xtah</rs>
+<lb n="2"/><rs ana="IXPUCH'">xpuch</rs> quibi re <rs ana="IXTAJ_IXPUCH'">e caib capohib</rs>
 <lb n="3"/>vꜩ chibec retal caꜩihivvq chi<pc> –</pc>
 <lb n="4"/>uoyobeh na chiya apanoc chi<pc> –</pc>
 <lb n="5"/>quech ahauab xevqhax cut ca<pc> –</pc>
-<lb n="6"/>te puch qui naohinic chic ri ah
-<lb n="7"/>quixb, ahcahb xevqhax ri <rs ana="B'ALAM_KI'TZE'">balam
+<lb n="6"/>te puch qui naohinic chic ri <rs ana="XA_Q'ANA_JAL">ah
+<lb n="7"/>quixb</rs>, <rs ana="XA_Q'ANA_JAL">ahcahb</rs> xevqhax ri <rs ana="B'ALAM_KI'TZE'">balam
 <lb n="8"/>quiꜩe</rs>, <rs ana="B'ALAM_AQ'AB'">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>,
 <lb n="9"/><rs ana="IQ'I_B'ALAM">iqui balam</rs> quixzibanoc oxib
 <lb n="10"/>cul chiꜩibah retal iqoheic cho<pc> –</pc>
@@ -4516,7 +4516,7 @@ cap.
 <lb n="37"/>zucu xequicot ri ahauab ta
 <lb n="38"/>xil qui vach xequel vca qui<pc> –</pc>
 <lb n="39"/>ꜩonoxic ri <rs ana="IXTAJ_IXPUCH'">capohib</rs>. ma xivil v
-<lb n="40"/>vach ri tohil xevqhaxic xquil
+<lb n="40"/>vach ri <rs ana="TOJIL">tohil</rs> xevqhaxic xquil
 <lb n="41"/>bala xeqha curi <rs ana="IXTAJ">xtah</rs> <rs ana="IXPUCH'">xpuch</rs>
 <lb n="42"/>vꜩ bala na qui pa retal xicam
 <lb n="43"/>vloc ma qui ꜩih xeqhau ri a<pc> –</pc>
@@ -4545,7 +4545,7 @@ cap.
 <lb n="18"/>chibal chupan ꜫal vꜩib <rs ana="MAJUK'UTAJ">mahu<pc> –</pc>
 <lb n="19"/>cutah</rs> cu roxꜩib ta xechacatah
 <lb n="20"/>vi cate puch quiiahic <rs ana="IXTAJ_IXPUCH">capohib</rs>
-<lb n="21"/>ri rumal <rs ana="TOJIL">ahauab</rs> ri <rs ana="IXTAJ">xtah</rs> <rs ana="IXPUCH'">xpu<pc> –</pc>
+<lb n="21"/>ri rumal ahauab ri <rs ana="IXTAJ">xtah</rs> <rs ana="IXPUCH'">xpu<pc> –</pc>
 <lb n="22"/>ch</rs> quibi naquipa chiculal ri
 <lb n="23"/>ivvcaam vloc apa xbe icama
 <lb n="24"/>vi <rs ana="IXTAJ_IXPUCH'">ix qaxtoq</rs> xevqhax ri <rs ana="IXTAJ_IXPUCH'">capohib</rs>
@@ -4589,8 +4589,8 @@ cap.
 <lb n="12"/>nohel amac e cauutal chic chi
 <lb n="13"/>chab chipocob conohel maui a
 <lb n="14"/>hilan chipu vac qui cauubal he
-<lb n="15"/>behoh quivachibal conohel aha
-<lb n="16"/>uab achihab quiꜩih banoh qui<pc> –</pc>
+<lb n="15"/>behoh quivachibal conohel <rs ana="XA_Q'ANA_JAL">aha
+<lb n="16"/>uab</rs> achihab quiꜩih banoh qui<pc> –</pc>
 <lb n="17"/>ꜩih conohel quiꜩih conohel qui<pc> –</pc>
 <lb n="18"/>ꜩih e calabil chuxic are curi <rs ana="TOJIL">to<pc> –</pc>
 <lb n="19"/>hil</rs> are cabauil arepu chica
@@ -4615,15 +4615,15 @@ cap.
 <lb n="38"/>cate cu vticaric vmichic qui<pc> –</pc>
 <lb n="39"/>mucu vach rumal ruq quizma<pc> –</pc>
 <lb n="40"/>chi ta xquir cur i puvac chi qui<pc> –</pc>
-<lb n="41"/>cul ruq qui iach vach ruq puch
+<lb n="41"/>cul ruq <rs ana="YACHWACH">qui iach vach</rs> ruq puch
 <lb n="42"/>qui chachal are curi vcul qui<pc> –</pc>
 <lb n="43"/>chami xere xquicam ri puvac
 <lb n="44"/>cahizabal qui vach xa pu mich<pc> –</pc>
 <lb n="45"/>bal quech xbanic retal vni<pc> –</pc>
-<lb n="46"/>mal <rs ana="AJAW_K'ICHE'">queche vinac</rs> cate puch
+<lb n="46"/>mal <rs ana="TINAMIT_K'ICHE'">queche vinac</rs> cate puch
 <lb n="47"/>xeqastahic huzu xquichapala
 <pb xml:id="xom-f46-s1"/>
-<lb n="1"/>qui i ach vach ruq cu ruq v cul qui
+<lb n="1"/>qui <rs ana="YACHWACH">i ach vach</rs> ruq cu ruq v cul qui
 <lb n="2"/>chami mahabi chi puvac chi cul ruq
 <lb n="3"/>qui <rs ana="YACHWACH">yach vach</rs> na qui pa mi xoh ca
 <lb n="4"/>movic aon chinac mi xoh micho<pc> –</pc>
@@ -4637,7 +4637,7 @@ cap.
 <lb n="12"/>chicaban quech xeqhacut cono<pc> –</pc>
 <lb n="13"/>hel amac xa vi xere banoh ꜩih
 <lb n="14"/>conohel. xavi cu cubul qui<pc> –</pc>
-<lb n="15"/>qux ri ah quixb ah cahb e qo
+<lb n="15"/>qux ri <rs ana="XA_Q'ANA_JAL">ah quixb</rs> <rs ana="XA_Q'ANA_JAL">ah cahb</rs> e qo
 <lb n="16"/>chuvi <rs ana="JAQAWITZ_JUYUB'">huyub</rs> xaui xere nima na<pc> –</pc>
 <lb n="17"/>oh caquibano ri <rs ana="B'ALAM_KI'TZE'">balam quiꜩe</rs>
 <lb n="18"/><rs ana="B'ALAM_AQ'AB'">balam acab</rs> <rs ana="MAJUK'UTAJ">mahucutah</rs> <rs ana="IQ'I_B'ALAM">iqui<pc> –</pc>
@@ -10349,22 +10349,22 @@ cap.
 <lb n="1"/>guílas</rs>, y todo, <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">abíspas</rs> lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="2"/>estaba píntado en el paño <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba
 <lb n="3"/>bruñído y entonçes desearon poner<pc> –</pc>
-<lb n="4"/>selos, y pusieronse el prímero, y no les
+<lb n="4"/>selos, y pusieronse <rs ana="TOJIL"> el prímero</rs>, y no les
 <lb n="5"/>hizo nada <rs ana="B'ALAM">el tígre</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba píntado
-<lb n="6"/>en el paño y luego el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>se puso el
-<lb n="7"/>Segundo en <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaba <rs ana="K'OTAL">el aguíla</rs>, y no
+<lb n="6"/>en el paño y luego el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>se puso <rs ana="AWILIX">el
+<lb n="7"/>Segundo</rs> en <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaba <rs ana="K'OTAL">el aguíla</rs>, y no
 <lb n="8"/>le hízo nada, y le daba bueltas de<pc> –</pc>
 <lb n="9"/>lante de todos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>auían pedido se lo pu<pc> –</pc>
-<lb n="10"/>síese y luego se puso el terçero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="10"/>síese y luego se puso <rs ana="JAQAWITZ">el terçero</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="11"/>estaua píntado de <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">abíspas</rs>.
 <lb n="12"/>y luego empezaron a pícarle todo
 <lb n="13"/>el cuerpo <rs ana="WONON">los tabanos</rs>, y <rs ana="SITA'L">las auíspas</rs>.
 <lb n="14"/>y no pudo tolerar, ni sufrir las pica<pc> –</pc>
 <lb n="15"/>das de los animals píntados, y empe<pc> –</pc>
-<lb n="16"/>zo a dar grítos el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>por los animales
+<lb n="16"/>zo a dar grítos <rs ana="JAQAWITZ">el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice></rs>por los animales
 <lb n="17"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>auía píntado <rs ana="MAJUK'UTAJ">mahucutah</rs> en la ter<pc> –</pc>
 <lb n="18"/>cera píntura, y fueron vençídos, y a
-<lb n="19"/>frentadas <rs ana="IXTAJ_IXPUCH'">las donçellas</rs> por <rs ana="TOJIL">los <choice><abbr>SSes.</abbr><expan instant="false">Señores</expan></choice></rs>
+<lb n="19"/>frentadas <rs ana="IXTAJ_IXPUCH'">las donçellas</rs> por los <choice><abbr>SSes.</abbr><expan instant="false">Señores</expan></choice>
 <lb n="20"/><rs ana="IXTAJ">la xtah</rs>, y <rs ana="IXPUCH'">la xpuch</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>paños son estos
 <lb n="21"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> traeís,? donde los fuísteís a traer?
 <lb n="22"/>demoníos? les fue dícho a<rs ana="IXTAJ_IXPUCH'">las donçe<pc> –</pc>
