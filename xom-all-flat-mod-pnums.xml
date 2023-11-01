@@ -273,7 +273,7 @@ cap.
 <lb n="46"/>uh</rs>, <rs ana="TZ'AQOL">ꜩacol</rs>, <rs ana="B'ITOL">bitol</rs>, <rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">qaholõ</rs>
 <pb xml:id="xom-f03-s1"/>
 <lb n="1"/>quixqhaoc cohiziquih, cohiqui<pc> –</pc>
-<lb n="2"/>hila, xevqhaxic. <!--editor's note: Ajtz'ib'ab' adds a paragraph here -->macu xuꜩinic
+<lb n="2"/>hila, xevqhaxic. macu xuꜩinic
 <lb n="3"/>xeqhauic, queheta ri vinac, xa
 <lb n="4"/>quevachelahic, xa quecaralahic
 <lb n="5"/>xa quevohonic; mavi xvachinic
@@ -310,7 +310,7 @@ cap.
 <lb n="35"/>puch, quehe cut xechacatah
 <lb n="36"/>vi quitiohil, xquipatanih xe
 <lb n="37"/>tÿc, xecamizaxic, ri chicop qo
-<lb n="38"/>varal chuvach vleuh<!--editor's note: Ajtz'ib'ab' paragraph -->, que
+<lb n="38"/>varal chuvach vleuh<!--editor's note: Ajtz'ib'ab' adds a paragraph -->, que
 <lb n="39"/>he cut v tihtobexic chic vinac
 <lb n="40"/>ꜩac vinac bit cumal <rs ana="TZ'AQOL">ꜩacol</rs>
 <lb n="41"/><rs ana="B'ITOL">bitol</rs> <rs ana="ALOM">alom</rs>, <rs ana="K'AJOLOM">qaholom</rs> xa ca
@@ -438,6 +438,7 @@ cap.
 <lb n="15"/>varal chuvach vleu
 </p>
 <p xml:id="p09">
+<!-- editor's note: paragraph break in XOM, not in Ajtz'ib'ab' -->
 <lb n="16" rend="indent"/><hi rend="large">C</hi>atecut qui quÿzic chic qui
 <lb n="17"/>mayxic qui cutuxic puch xe
 <lb n="18"/>camizax chic poy aham che
@@ -486,6 +487,7 @@ cap.
 <lb n="8"/>quih, hu ta quih, xquec zaqui<pc> –</pc>
 <lb n="9"/>ric amaquel holi, holi, hu<pc> –</pc>
 <lb n="10"/>qui, huqui ca vach ivumal
+<!-- editor's note: Ajtz'ib'ab adds a paragraph here -->
 <lb n="11"/>are ta nabe capatan chiva<pc> –</pc>
 <lb n="12"/>ch, ixtana vinac vaca<pc> –</pc>
 <lb n="13"/>mic cut xchitih ca chucab
@@ -506,7 +508,7 @@ cap.
 <lb n="28"/>xohzach vi, vacamic cut x<pc> –</pc>
 <lb n="29"/>chitih cabac qo pa ca chi x<pc> –</pc>
 <lb n="30"/>quixcatio xeqha ri ꜩi chi<pc> –</pc>
-<lb n="31"/>que ta xcut qui vach. are
+<lb n="31"/>que ta xcut qui vach. <!--editor's note: Ajtz'ib'ab' adds a paragraph -->are
 <lb n="32"/>chicuri qui xot, qui boh x<pc> –</pc>
 <lb n="33"/><note place="margin-left" anchored="true"><del rend="strikethrough" instant="false" status ="unremarkable">--|</del></note>chau chic chique: cax, va xi
 <lb n="34"/>ban chique xac ca chi, xac<pc> –</pc>
@@ -514,7 +516,7 @@ cap.
 <lb n="36"/>chuuicac cohicato maui cax
 <lb n="37"/>xcanao, xchitih cut xquix
 <lb n="38"/>caporoh xcha ri qui boh ro<pc> –</pc>
-<lb n="39"/>nohel xcutu qui vach. areri
+<lb n="39"/>nohel xcutu qui vach. <!--editor's note: Ajtz'ib'ab' adds a paragraph -->areri
 <lb n="40"/>abah ri quixcub chitaninic
 <lb n="41"/>chipe paꜫaꜫ taeal chi qui<pc> –</pc>
 <lb n="42"/>holom, cax xban chique.
