@@ -248,7 +248,7 @@ cap.
 <lb n="23"/>in vi, quixhain vi, chiri quix<pc> –</pc>
 <lb n="24"/>poc vi, quixquiritah vi chu e<pc> –</pc>
 <lb n="25"/>ab che, chueab caam xevqh<pc> –</pc>
-<lb n="26"/>axic <rs ana="KEJ">quieh</rs> <rs ana="TZ'IKIN">ꜩiquin</rs><!--editor's note: Ajtz'ib'ab' adds a paragraph here --> taxquiba<pc> –</pc>
+<lb n="26"/>axic <rs ana="KEJ">quieh</rs> <rs ana="TZ'IKIN">ꜩiquin</rs> taxquiba<pc> –</pc>
 <lb n="27"/>no quibanoh ronohel xuca<pc> –</pc>
 <lb n="28"/>mo v varabal, v yacalibal
 <lb n="29"/>quehe cut cochoch vi chicop
@@ -281,7 +281,7 @@ cap.
 <lb n="7"/>quibeh chi qui huhunal. ta xqui
 <lb n="8"/>ta ri <rs ana="TZ'AQOL">ꜩacol</rs> <rs ana="B'ITOL">bitol</rs> maui mi xu<pc> –</pc>
 <lb n="9"/>ꜩinic, mi xeqhauic, xeqha chic
-<lb n="10"/>qui bil quib <!-- editor's note: Ajtz'ib'ab' adds a paragraph here --> maui mixuꜩin v
+<lb n="10"/>qui bil quib maui mixuꜩin v
 <add place="margin-left" instant="false" status="unremarkable">chi</add>
 <lb n="11"/>bixic cabi rumal oh cah ꜩac
 <lb n="12"/>oh pu cah bit mavi vꜩ xqha
@@ -297,7 +297,7 @@ cap.
 <lb n="22"/>ix ziquÿ que ca qo couilo qui<pc> –</pc>
 <lb n="23"/>hilonel nimanel chi caban chic
 <lb n="24"/>xa chicam i patan <add instant="false" status="unremarkable">y</add> xa i tiohil
-<lb n="25"/>chica chic ta chuxoc. are cut
+<lb n="25"/>chica chic ta chuxoc. <!--editor's note: Ajtz'ib'ab' adds a paragraph. Corresponds to paragraph 14 in Ajtz'ib'ab' --> are cut
 <lb n="26"/>chipatanih, xevqhaxic ta xe
 <lb n="27"/>pixabaxic chuti chicop nima
 <lb n="28"/>chicop qo chuvach vleu. ta
@@ -310,7 +310,7 @@ cap.
 <lb n="35"/>puch, quehe cut xechacatah
 <lb n="36"/>vi quitiohil, xquipatanih xe
 <lb n="37"/>tÿc, xecamizaxic, ri chicop qo
-<lb n="38"/>varal chuvach vleuh<!--editor's note: Ajtz'ib'ab' adds a paragraph -->, que
+<lb n="38"/>varal chuvach vleuh, que
 <lb n="39"/>he cut v tihtobexic chic vinac
 <lb n="40"/>ꜩac vinac bit cumal <rs ana="TZ'AQOL">ꜩacol</rs>
 <lb n="41"/><rs ana="B'ITOL">bitol</rs> <rs ana="ALOM">alom</rs>, <rs ana="K'AJOLOM">qaholom</rs> xa ca
@@ -321,7 +321,7 @@ cap.
 <lb n="46"/>chuvach vleuh. mi xcatiho
 <lb n="47"/>chirech rinabe ca ꜩac, ca
 <pb xml:id="xom-f03-s2"/>
-<lb n="1"/>bit <!-- editor's note: Ajtz'ib'ab' adds a paragraph here -->maui mi xuꜩinic ca quihilo<pc> –</pc>
+<lb n="1"/>bit <!-- editor's note: Ajtz'ib'ab' adds a paragraph here. Corresponds to paragraph 15 in Ajtz'ib'ab' -->maui mi xuꜩinic ca quihilo<pc> –</pc>
 <lb n="2"/>xic, ca calaixic puch cumal, que<pc> –</pc>
 <lb n="3"/>he cut catiha vi vbanic ah nim
 <lb n="4"/>ah xob ꜩucul, cool xeqha ta v<pc> –</pc>
@@ -333,7 +333,6 @@ cap.
 <lb n="10"/>vmaric, maui chicolol vholó
 <lb n="11"/>xa hum benac vi vvach, xacu<pc> –</pc>
 <lb n="12"/>luvach maui chimucun chirih
-<!-- editor's note:Ajtz'ib'ab' adds a paragraph here -->
 <lb n="13"/>chichau nabec, mahabi vnaoh
 <lb n="14"/>xa huzuc chiumar paha, maui
 <lb n="15"/>qo, xeqha chicuri <rs ana="TZ'AQOL">ah ꜩac</rs> <rs ana="B'ITOL">ah bit</rs>.
@@ -352,7 +351,7 @@ cap.
 <lb n="28"/>tiha chic vquihixic vbitaxic
 <lb n="29"/>xevqhan qui quib <rs ana="TZ'AQOL">ah ꜩac</rs>
 <lb n="30"/><rs ana="B'ITOL">ah bit</rs>. Ta xquibÿh cut chire
-<lb n="31"/><rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs><add instant="false" status="unremarkable">¶</add><!--editor's note: Ajtz'ib'ab' paragraph--> cate cut
+<lb n="31"/><rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs><add instant="false" status="unremarkable">¶</add> cate cut
 <lb n="32"/>vbixic ri chiquech ri enic vachi<pc> –</pc>
 <lb n="33"/>nel, <rs ana="RATI'T_Q'IJ">ratit quih</rs> <rs ana="RATI'T_SAQ">ratit zac</rs> que
 <lb n="34"/>vqhaxic cumal ri <rs ana="TZ'AQOL">ꜩacol</rs> <rs ana="B'ITOL">bitol</rs>
@@ -381,7 +380,7 @@ cap.
 <lb n="7"/><rs ana="AJTZ'ALAM">ahꜩalam</rs>, <rs ana="AJRAXA_LAQ">ah raxalac</rs>, <rs ana="AJRAXA_TZEL">ah raxazel</rs>
 <lb n="8"/><rs ana="AJQ'OL">ah eol</rs>, <rs ana="AJTOLTEKAT">ah toltecat</rs> <rs ana="RATI'T_Q'IJ">ratit quih</rs> <rs ana="RATI'T_SAQ">ra
 <lb n="9"/>tiꜩac</rs> quixvqhaxic rumal caꜩac
-<lb n="10"/>cabit <!-- editor's note: Ajtz'ib'ab' paragraph --> chimala chi <rs ana="IXIM">ixim</rs>, chi <rs ana="TZ'ITE'">ꜩite</rs>
+<lb n="10"/>cabit chimala chi <rs ana="IXIM">ixim</rs>, chi <rs ana="TZ'ITE'">ꜩite</rs>
 <lb n="11"/>xa chibanatahic xa pu chel apan
 <lb n="12"/>oc chicahah chicacotah puch
 <lb n="13"/>vchi vvach che xevqhaxic e
@@ -421,7 +420,7 @@ cap.
 <lb n="47"/>cah bit xaloc xebinic, xecha<pc> –</pc>
 <pb xml:id="xom-f04-s2"/>
 <note><num>4</num></note>
-<lb n="1"/>canic <!--editor's note: Ajtz'ib'ab' paragraph -->maui xquinatah chic ri <rs ana="UK'U'X_KAJ">v<pc> –</pc>
+<lb n="1"/>canic maui xquinatah chic ri <rs ana="UK'U'X_KAJ">v<pc> –</pc>
 <lb n="2"/>qux cah</rs> quehe cut xepah chivi
 <lb n="3"/>xa vtihtobexic xa pu v va ba<pc> –</pc>
 <lb n="4"/>bexic chi vinac queqhau na<pc> –</pc>
@@ -438,7 +437,7 @@ cap.
 <lb n="15"/>varal chuvach vleu
 </p>
 <p xml:id="p09">
-<!-- editor's note: paragraph break in XOM, not in Ajtz'ib'ab' -->
+<!-- editor's note: paragraph break in XOM, not in Ajtz'ib'ab'. Corresponds to Ajtz'ib'ab' paragraph 16 between notes 62 and 63 -->
 <lb n="16" rend="indent"/><hi rend="large">C</hi>atecut qui quÿzic chic qui
 <lb n="17"/>mayxic qui cutuxic puch xe
 <lb n="18"/>camizax chic poy aham che
