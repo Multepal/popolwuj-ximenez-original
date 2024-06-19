@@ -1310,15 +1310,15 @@ cap.
 <p xml:id="p18">
 <lb n="36" rend="indent" /><hi>C</hi>ate cut qui petic <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> ru
 <lb n="37"/>mal <rs ana="JUN_KAME'">hun came</rs>, <rs ana="WUQUB'_KAME'">vvcub came</rs> quix
-<lb n="38"/>bec ixrah popachih he i taca ri
+<lb n="38"/>bec <rs ana="RAJPOP">ixrah popachih</rs> he i taca ri
 <lb n="39"/><rs ana="JUN_JUNAJPU">hun hunahpu</rs>, <rs ana="WUQUB'_JUNAJPU">vvcub hun ahpu</rs>
 <lb n="40"/>quixqha ta quixopon cuq quepe
-<lb n="41"/>toc queqha ahauab chivech va<pc> –</pc>
+<lb n="41"/>toc queqha <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> chivech va<pc> –</pc>
 <lb n="42"/>ral tah queul <rs ana="CHAAJ">chaaha</rs> vi cuq
 <lb n="43"/>chicacaztah ta cavach cuq qui<pc> –</pc>
 <lb n="44"/>ꜩih cacamaihah qui chi quehe
-<lb n="45"/>ta cut quepe vi queqha aha<pc> –</pc>
-<lb n="46"/>uab chiquicam cu vloc ri qui
+<lb n="45"/>ta cut quepe vi queqha <rs ana="RAJAWAL_XIB'ALB'A">aha<pc> –</pc>
+<lb n="46"/>uab</rs> chiquicam cu vloc ri qui
 <lb n="47"/>choconizan, qui <rs ana="B'ATE">bate</rs>, qui <rs ana="PACHQ'AB'">pa ch<pc> –</pc>
 <pb xml:id="xom-f13-s2"/>
 <note place="margin-right" type="pagination" anchored="true"><num rend="large">13</num></note>
@@ -1335,7 +1335,7 @@ cap.
 <lb n="11"/>rih qo v xic, are chi naipuch ri
 <lb n="12"/><rs ana="JOLOM_TUKUR">holom tucur</rs> xa vtuquel vholom
 <lb n="13"/>mahabi racan xa v xic qolic
-<lb n="14"/>e cahib ri <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> <rs ana="RAJPOP">rahpop achi<pc> –</pc>
+<lb n="14"/><!--editor's note: Ajtz'ib'ab' adds a paragraph here.-->e cahib ri <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> <rs ana="RAJPOP">rahpop achi<pc> –</pc>
 <lb n="15"/>hab</rs> quecalem ta xepe cut chila
 <lb n="16"/>chi <rs ana="XIB'ALB'A">xibalba</rs> libah chi xevlic e
 <lb n="17"/>cu tacal chuvi <rs ana="JOM">hom</rs> que<rs ana="CHAAJ">chaah</rs> cut
