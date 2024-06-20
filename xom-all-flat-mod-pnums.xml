@@ -1348,8 +1348,8 @@ cap.
 <lb n="24"/><rs ana="CH'AMIYA_BAQ">chamia bac</rs>, <rs ana="CH'AMIYA_JOLOM">chamia holom</rs>, <rs ana="XIKIRI_PAT">xi<pc> –</pc>
 <lb n="25"/>quiripat</rs>, <rs ana="KUCHUMA_KIK'">cuchumaquic</rs>, <rs ana="AJAL_MES">ahal<pc> –</pc>
 <lb n="26"/>mez</rs>, <rs ana="AJAL_TOQ'OB">ahal tocob</rs>, <rs ana="AJAW_XIK">xic</rs> <rs ana="PATAN">patan</rs> qui<pc> –</pc>
-<lb n="27"/>bi conohel <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> xꜩac qui<pc> –</pc>
-<lb n="28"/>ꜩih cumal <rs ana="TUKUR">tucur</rs>. maquiꜩih ca<pc> –</pc>
+<lb n="27"/>bi <rs ana="RAJAWAL_XIB'ALB'A">conohel ahauab</rs> xꜩac qui<pc> –</pc>
+<lb n="28"/>ꜩih cumal <rs ana="TUKUR">tucur</rs>. <!--editor's note: Ajtz'ib'ab' adds a paragraph here. -->maquiꜩih ca<pc> –</pc>
 <lb n="29"/>qha ahau <rs ana="JUN_KAME'">hun came</rs>, <rs ana="WUQUB'_KAME'">vvcub ca<pc> –</pc>
 <lb n="30"/>me</rs>? quiꜩih bala queqha ohna
 <lb n="31"/>cu achbilai ive. chicam vloc ri
@@ -1370,7 +1370,7 @@ cap.
 <lb n="46"/>siban oc, quixcoton oc, chi mecoh
 <lb n="47"/>cochoch chimecoh puch vqux
 <pb xml:id="xom-f14-s1"/>
-<lb n="1"/><rs ana="IXMUKANE">ivatit</rs>. xevqhax cut <rs ana="JUN_B'ATZ">hun baꜩ</rs>
+<lb n="1"/><rs ana="IXMUKANE">ivatit</rs>. <!--editor's note: Ajtz'ib'ab' adds a paragraph here-->xevqhax cut <rs ana="JUN_B'ATZ">hun baꜩ</rs>
 <lb n="2"/><rs ana="JUN_CHOWEN">hun choven</rs> ta xepixabaxic quz<pc> –</pc>
 <lb n="3"/>quz cut choc qui <rs ana="IXKIK'">chuch</rs> ri <rs ana="IXMUKANE">xmu<pc> –</pc>
 <lb n="4"/>cane</rs>. hona mahabi cohcamic mi<pc> –</pc>
@@ -1395,11 +1395,11 @@ cap.
 <lb n="21"/>ui xeicou chic ta xeopon chicut
 <lb n="22"/>pacahib xalcat be, cachiri cut
 <lb n="23"/>xechacatah vi pacahib xalcat
-<lb n="24"/>be <rs ana="KAQA_B'E">hun ꜫaꜫabe</rs>, <rs ana="Q'EQA_B'E">hun cut queca
-<lb n="25"/>be</rs>, <rs ana="SAQI_B'E">zaqui be hun</rs>, <rs ana="Q'ANA_B'E">hun cut ꜫana
+<lb n="24"/>be hun <rs ana="KAQA_B'E">ꜫaꜫabe</rs>, hun cut <rs ana="Q'EQA_B'E">queca
+<lb n="25"/>be</rs>, <rs ana="SAQI_B'E">zaqui be</rs> hun, hun cut <rs ana="Q'ANA_B'E">ꜫana
 <lb n="26"/>be</rs> cahib be. are cut xqhau
 <lb n="27"/>ri <rs ana="Q'EQA_B'E">queca be</rs> in quinicamo in
-<lb n="28"/>vbe ahau xqhau ri be chiricut
+<lb n="28"/>vbe <rs ana="RAJAWAL_XIB'ALB'A">ahau</rs> xqhau ri be chiricut
 <lb n="29"/>xeqhacatah vi are xquitaqueh
 <lb n="30"/>ri <rs ana="Q'EQA_B'E">be <rs ana="XIB'ALB'A">xibalba</rs></rs> ta xeopon cut
 <lb n="31"/>pa qui popobal <rs ana="RAJAWAL_XIB'ALB'A">rahaual xibal
