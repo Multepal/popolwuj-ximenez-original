@@ -5657,7 +5657,7 @@ cap.
 <lb n="18" rend="hanging" />hauab
 </p>
 <p>
-<lb n="19"/><rs ana="DON_JUAN_DE_ROJAS_KQCATORCE"><hi rend="large">D</hi>on <choice><abbr><expan>Ju<hi rend="superscript">o.</hi>Juan</expan></abbr></choice> de Rojas</rs> <rs ana="DON_JUAN_CORTES_KQCATORCE">Don Ju<hi rend="superscript">o.</hi> cortes</rs>
+<lb n="19"/><rs ana="DON_JUAN_DE_ROJAS_KQCATORCE"><hi rend="large">D</hi>on <choice><abbr>Ju<hi rend="superscript">o.</hi></abbr><expan instant="false"></expan>Juan</expan></choice> de Rojas</rs> <rs ana="DON_JUAN_CORTES_KQCATORCE">Don Ju<hi rend="superscript">o.</hi> cortes</rs>
 <lb n="20"/>cablahu le ahauab eqahola<pc> –</pc>
 <lb n="21"/>xel rumal <rs ana="TEKUM_KQTRECE">tecum</rs> <rs ana="TEPEPUL_KQTRECE">tepepul</rs>
 </p>
