@@ -1467,8 +1467,8 @@ cap.
 <lb n="43"/>qha <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> chive xevqhaxic
 <lb n="44"/>xechacatah cut. xquiquiz ri chah
 <lb n="45"/>xquiquiz curi zic xbe yao chique
-<lb n="46"/>ꜩaꜩ curi vtihobal <rs ana="XIB'ALB'A">xibalba</rs> quia
-<lb n="47"/>molah chi tihobal arevnabe ri
+<lb n="46"/>ꜩaꜩ curi <rs ana="TIJOB'AL_JA">vtihobal</rs> <rs ana="XIB'ALB'A">xibalba</rs> quia
+<lb n="47"/>molah chi <rs ana="TIJOB'AL_JA">tihobal</rs> arevnabe ri
 <pb xml:id="xom-f15-s1"/>
 <lb n="1"/><rs ana="Q'EQUMA_JA">queeuma ha</rs> vtuquel queeum
 <lb n="2"/>vpam, vcab chi cut <rs ana="XUXULIM_JA">xuxulim ha</rs>
@@ -1479,7 +1479,7 @@ cap.
 <lb n="7"/>pan quequichouic, quebuchuuic
 <lb n="8"/>chi matat quechiquitit queeꜩa<pc> –</pc>
 <lb n="9"/>pim <rs ana="B'ALAM">balam</rs> <rs ana="B'ALAM_JA">pa ha</rs>. <rs ana="SOTZ'I_JA">ꜩoꜩi ha</rs> vbi v
-<lb n="10"/>cah v tihobal vtuquel <rs ana="SOTZ">ꜩoꜩ</rs> vpam
+<lb n="10"/>cah <rs ana="TIJOB'AL_JA">v tihobal</rs> vtuquel <rs ana="SOTZ">ꜩoꜩ</rs> vpam
 <lb n="11"/>chiha queꜩiꜩotic, queꜩitilahic
 <lb n="12"/>queropop <rs ana="SOTZ'I_JA">pa ha</rs> e ꜩapin <rs ana="SOTZ">ꜩoꜩ</rs> ma<pc> –</pc>
 <lb n="13"/>habi queel vi. <!--editor's note: Ajtz'ib'ab' adds a paragraph here -->roo chi cut <rs ana="CHAYIM_JA">chaim
@@ -2476,7 +2476,7 @@ cap.
 <lb n="32"/>vbala. xabahix paha xevchaxic
 <lb n="33"/>cate cut ta xeoc pa <rs ana="Q'EQUMA_JA">que eumaha</rs>
 <lb n="34"/>maui xechacatahic chiri <!-- editor's note: Ajtz'ib'ab' adds a paragraph here--> are
-<lb n="35"/>nabe vtihobal <rs ana="XIB'ALB'A">xibalba</rs> ri xeoc
+<lb n="35"/>nabe <rs ana="TIJOB'AL_JA">vtihobal</rs> <rs ana="XIB'ALB'A">xibalba</rs> ri xeoc
 <lb n="36"/>vi que chi cu vticaric quichaca
 <lb n="37"/>tahic ta chic chiquiqux <rs ana="XIB'ALB'A">xibalba</rs>
 <lb n="38"/>nabe xeoc pa <rs ana="Q'EQUMA_JA">que eumaha</rs>
@@ -2578,8 +2578,8 @@ cap.
 <lb n="32"/>vꜩbala acaba chicut <rs ana="CHAAJ">cohcha<pc> –</pc>
 <lb n="33"/>ahic</rs> xeqha cut ta xepixaban
 <lb n="34"/>quib cate chicut ta xeoc chi
-<lb n="35"/><rs ana="KA'IB'_K'AJOLAB'">qaholab</rs> pa<rs ana="CHAYIM_JA">chaim ha</rs> vcabti<pc> –</pc>
-<lb n="36"/>hobal <rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs> are ta cut xa<pc> –</pc>
+<lb n="35"/><rs ana="KA'IB'_K'AJOLAB'">qaholab</rs> pa<rs ana="CHAYIM_JA">chaim ha</rs> <rs ana="TIJOB'AL_JA">vcabti<pc> –</pc>
+<lb n="36"/>hobal</rs> <rs ana="XIB'ALB'A">xibalba</rs> are ta cut xa<pc> –</pc>
 <lb n="37"/>hauaxchic xecatacoxtah ru<pc> –</pc>
 <lb n="38"/>mal cha chanim tah chiqui<pc> –</pc>
 <lb n="39"/>qux xecam tah chiquiqux
@@ -2877,7 +2877,7 @@ cap.
 <lb n="19"/>bÿh chic. ta xepixabah cut xqui<pc> –</pc>
 <lb n="20"/>bano ronohel caxcol rail xban
 <lb n="21"/>chique maui xecamic rumal
-<lb n="22"/>vtihobal <rs ana="XIB'ALB'A">xibalba</rs> maui xecha<pc> –</pc>
+<lb n="22"/><rs ana="TIJOB'AL_JA">vtihobal</rs> <rs ana="XIB'ALB'A">xibalba</rs> maui xecha<pc> –</pc>
 <lb n="23"/>catahic rumal ronohel tionel
 <lb n="24"/>chicopo qo chi <rs ana="XIB'ALB'A">xibalba</rs> cate
 <lb n="25"/>cut ta xquitac chi caib nic vachi<pc> –</pc>
@@ -2888,7 +2888,7 @@ cap.
 <lb n="30"/>camic quinaoh caquinuc ru
 <lb n="31"/>mal ri maui mi xohcamic, ma
 <lb n="32"/>pu mi xohchacatahic mixcaza<pc> –</pc>
-<lb n="33"/>ch quitihobal, maxa chicopch<pc> –</pc>
+<lb n="33"/>ch <rs ana="TIJOB'AL_JA">quitihobal</rs>, maxa chicopch<pc> –</pc>
 <lb n="34"/>oc chique, are cu retal va chi
 <lb n="35"/>caqux chohim abah camiza<pc> –</pc>
 <lb n="36"/>bal que cumal mi xecuchu
@@ -7285,9 +7285,9 @@ cap.
 <lb n="43"/>ocote sin <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>seacabe esto os dízen <rs ana="RAJAWAL_XIB'ALB'A">los
 <lb n="44"/><choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice></rs> y allí fueron ganados <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> acabaron
 <lb n="45"/>elocote, y el tabaco <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les díeron. muchos
-<lb n="46"/>eran los castigos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tenían <rs ana="RAJAWAL_XIB'ALB'A">los de elinfíerno</rs>,
+<lb n="46"/>eran <rs ana="TIJOB'AL_JA">los castigos</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tenían <rs ana="RAJAWAL_XIB'ALB'A">los de elinfíerno</rs>,
 <pb corresp="xom-f15-s1"/>
-<lb n="1"/>y muchas díferenzias de castígos. el prímero
+<lb n="1"/>y muchas díferenzias de <rs ana="TIJOB'AL_JA">castígos</rs>. el prímero
 <note place="margin-right" type="pagination" anchored="true">
 <num rend="large">15</num>
 </note>
@@ -7305,10 +7305,10 @@ cap.
 <lb n="13"/>chaí donde solo auía deestas navajas
 <lb n="14"/>de muy agudos filos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estavan hazíendo
 <lb n="15"/>ruído, refregandose vnas conotras. mu<pc> –</pc>
-<lb n="16"/>chos eran los castigos de <rs ana="XIB'ALB'A">el ínfíerno</rs>
+<lb n="16"/>chos eran <rs ana="TIJOB'AL_JA">los castigos</rs> de <rs ana="XIB'ALB'A">el ínfíerno</rs>
 <lb n="17"/>mas no entraron en <rs ana="TIJOB'AL_JA">ellos</rs> <rs ana="JUN_JUNAJPU">hun hun ahpu</rs>
 <lb n="18"/><rs ana="WUQUB'_JUNAJPU">vvcub hun ahpu</rs>. despus se díra de
-<lb n="19"/>estos castigos. y en trando el <rs ana="JUN_JUNAJPU">hun hun ah<pc> –</pc>
+<lb n="19"/>estos <rs ana="TIJOB'AL_JA">castigos</rs>. y en trando el <rs ana="JUN_JUNAJPU">hun hun ah<pc> –</pc>
 <lb n="20"/>pu</rs>, y <rs ana="WUQUB'_JUNAJPU">vcub hun ahpu</rs> delante de
 <lb n="21"/><rs ana="JUN_KAME'">hun came</rs>, y <rs ana="WUQUB'_KAME'">vvcub came</rs> les dixeron
 <lb n="22"/>a dondeesta el tabaco, y el cote <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> a
