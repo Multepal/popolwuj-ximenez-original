@@ -4547,7 +4547,7 @@ cap.
 <lb n="18"/>chibal chupan ꜫal vꜩib <rs ana="MAJUK'UTAJ">mahu<pc> –</pc>
 <lb n="19"/>cutah</rs> cu roxꜩib ta xechacatah
 <lb n="20"/>vi cate puch quiiahic <rs ana="IXTAJ_IXPUCH">capohib</rs>
-<lb n="21"/>ri rumal ahauab ri <rs ana="IXTAJ">xtah</rs> <rs ana="IXPUCH'">xpu<pc> –</pc>
+<lb n="21"/>ri rumal <rs ana="TOJIL_AWILIX_JAQAWITZ">ahauab</rs> ri <rs ana="IXTAJ">xtah</rs> <rs ana="IXPUCH'">xpu<pc> –</pc>
 <lb n="22"/>ch</rs> quibi naquipa chiculal ri
 <lb n="23"/>ivvcaam vloc apa xbe icama
 <lb n="24"/>vi <rs ana="IXTAJ_IXPUCH'">ix qaxtoq</rs> xevqhax ri <rs ana="IXTAJ_IXPUCH'">capohib</rs>
@@ -4576,11 +4576,11 @@ cap.
 <lb n="47"/>quiꜩe</rs> <rs ana="B'ALAM_AQ'AB'">balam acab</rs> <rs ana="MAJUK'UTAJ">mahucutah</rs>
 <pb xml:id="xom-f45-s2"/>
 <lb n="1"/><rs ana="IQ'I_B'ALAM">iquibalam</rs> are e qo chuvi <rs ana="JAQAWITZ_JUYUB'">huyub
-<lb n="2"/>hacaviꜩ</rs> vbi huyub eqovi xqo<pc> –</pc>
+<lb n="2"/>hacaviꜩ</rs> vbi <rs ana="JAQAWITZ_JUYUB'">huyub</rs> eqovi xqo<pc> –</pc>
 <lb n="3"/>lo cut quiqahol chiri chuvi
-<lb n="4"/>huyub maui eta quia vinac ma<pc> –</pc>
+<lb n="4"/><rs ana="JAQAWITZ_JUYUB'">huyub</rs> maui eta quia vinac ma<pc> –</pc>
 <lb n="5"/>na quehe ta qui quial ri vquial
-<lb n="6"/>amac xa zcaquin uvi huyub
+<lb n="6"/>amac xa zcaquin uvi <rs ana="JAQAWITZ_JUYUB'">huyub</rs>
 <lb n="7"/>quicatem, xacu qha ta xnaohix
 <lb n="8"/>quicamizaxic rumal amac ta x<pc> –</pc>
 <lb n="9"/>quicuch quib conohel xepoponic
@@ -4627,7 +4627,7 @@ cap.
 <pb xml:id="xom-f46-s1"/>
 <lb n="1"/>qui <rs ana="YACHWACH">i ach vach</rs> ruq cu ruq v cul qui
 <lb n="2"/>chami mahabi chi puvac chi cul ruq
-<lb n="3"/>qui <rs ana="YACHWACH">yach vach</rs> na qui pa mi xoh ca
+<lb n="3"/><rs ana="YACHWACH">qui yach vach</rs> na qui pa mi xoh ca
 <lb n="4"/>movic aon chinac mi xoh micho<pc> –</pc>
 <lb n="5"/>uic apa mi xpe vi mi xelecan ca
 <lb n="6"/>puvac xeqha cut conohel ah la<pc> –</pc>
@@ -4733,7 +4733,7 @@ cap.
 <lb n="8"/>na chic ta xecac chi chab xechoi
 <lb n="9"/>chi <rs ana="IKAJ">icah</rs> xa bolah che xquicoh chic
 <lb n="10"/><rs ana="B'ALAM_KI'TZE'">balam quiꜩe</rs> <rs ana="B'ALAM_AQ'AB'">balam acab</rs>, xoc qui
-<lb n="11"/><rs ana="IXOQ_AJAWAB'">xoquil</rs> e <rs ana="IXOQ_AJAWAB'">camizanel</rs> xaui cu xe
+<lb n="11"/><rs ana="IXOQ_AJAWAB'">xoquil</rs> <rs ana="IXOQ_AJAWAB'">e camizanel</rs> xaui cu xe
 <lb n="12"/>ꜩalih ri chahcar chic xa xel chic
 <lb n="13"/>chi cacan ronohel amac are xqui
 <lb n="14"/>ric qui nabe xevꜩinic xecamiza<pc> –</pc>
@@ -10283,7 +10283,7 @@ cap.
 <lb n="29"/>de adonde venís? les fue dícho alas
 <lb n="30"/><rs ana="IXTAJ_IXPUCH'">dos donçellas</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>quereís <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ve<pc> –</pc>
 <lb n="31"/>nís aquí a nuestra agua? y les fue dí<pc> –</pc>
-<lb n="32"/>cho. nosotras somos embíadas aca
+<lb n="32"/>cho. <rs ana="IXTAJ_IXPUCH'">nosotras</rs> somos embíadas aca
 <lb n="33"/>por <rs ana="XA_Q'ANA_JAL">los <choice><abbr>SSes.</abbr><expan instant="false">Señores</expan></choice></rs> y nos díxeron andad auer
 <lb n="34"/>las caras de <rs ana="TOJIL">tohíl</rs>, y hablad con ellos
 <lb n="35"/>y así mesmo traed señal de <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>aueís
