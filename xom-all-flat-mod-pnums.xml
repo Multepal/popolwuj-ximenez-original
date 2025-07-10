@@ -4329,7 +4329,7 @@ cap.
 <lb n="47"/>virib amac vve are ri <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">au<pc> –</pc>
 <pb xml:id="xom-f43-s1"/>
 <lb n="1"/>lix</rs> coc chique xa quecuꜩucuh
-<lb n="2"/>ri ahquixb ahcahb. tal a qo vi
+<lb n="2"/>ri <rs ana="XA_Q'ANA_JAL">ahquixb</rs> <rs ana="XA_Q'ANA_JAL">ahcahb</rs>. tal a qo vi
 <lb n="3"/>cochoch chicataqueh ri cacan
 <lb n="4"/>xeqha cut conohel amac. ta x<pc> –</pc>
 <lb n="5"/>quicam qui naoh chi quibil quib
@@ -4398,8 +4398,8 @@ cap.
 <lb n="18"/>rilo queatin <rs ana="CHI_RATINIB'AL_TOJIL">chuchi ya</rs> huta quih
 <lb n="19"/>vve are <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">aulix</rs> <rs ana="JAQAWITZ">hacauiꜩ</rs> are
 <lb n="20"/>ta quecachac na nabe chiri ta cut
-<lb n="21"/>chiticar vi qui chacatahic ri e ah
-<lb n="22"/>quixb e ahcahb xeqha chicut
+<lb n="21"/>chiticar vi qui chacatahic ri <rs ana="XA_Q'ANA_JAL">e ah
+<lb n="22"/>quixb</rs> <rs ana="XA_Q'ANA_JAL">e ahcahb</rs> xeqha chicut
 <lb n="23"/>chahcar chic taxe qhauic. na qui<pc> –</pc>
 <lb n="24"/>la cut chica chacbeh quech xe
 <lb n="25"/>qha chicut. areta ca chacbal
@@ -10147,12 +10147,12 @@ cap.
 <lb n="45"/>echaron deuer los pueblos. y deçían
 <lb n="46"/>sí sera el <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">auílíx</rs>, el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>entra aquí
 <pb corresp="xom-f43-s1"/>
-<lb n="1"/>y busca solo alos capítanes. donde esta
+<lb n="1"/>y busca solo <rs ana="XA_Q'ANA_JAL">alos capítanes</rs>. donde esta
 <lb n="2"/>ran sus casas? seguíremos las písadas
 <lb n="3"/>díxeron todos los pueblos. y entonçes
 <lb n="4"/>consultaron entresí, y luego empeza<pc> –</pc>
-<lb n="5"/>ron á seguír las huellas de los prínçí<pc> –</pc>
-<lb n="6"/>pales, y no se podia rastrear, solo vían
+<lb n="5"/>ron á seguír las huellas de <rs ana="XA_Q'ANA_JAL">los prínçí<pc> –</pc>
+<lb n="6"/>pales</rs>, y no se podia rastrear, solo vían
 <lb n="7"/>písadas de <rs ana="KEJ">venados</rs>, y de <rs ana="B'ALAM">tígres</rs>, y no
 <lb n="8"/>se rastreaban las písadas prímeras
 <lb n="9"/>síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaban bueltas, para <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se per
@@ -10214,7 +10214,7 @@ cap.
 <lb n="14"/>xeron quando se juntaron todos. y
 <lb n="15"/>díxo vna parte de los pueblos quan<pc> –</pc>
 <lb n="16"/>do hablo: adonde víeron <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se baña<pc> –</pc>
-<lb n="17"/>ba en el río todos los días? y sí este es
+<lb n="17"/>ba en <rs ana="CHI_RATINIB'AL_TOJIL">el río</rs> todos los días? y sí este es
 <lb n="18"/><rs ana="TOJIL">tohíl</rs><rs ana="AWILIX">auílíx</rs>, <rs ana="JAQAWITZ">hacauíꜩ</rs>, los vençeremos
 <lb n="19"/>prímero, y allí tendra prínçípío se ser
 <lb n="20"/>ganados; los grandes, esto díxo la
