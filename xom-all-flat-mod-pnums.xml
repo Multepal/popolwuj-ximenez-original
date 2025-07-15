@@ -2809,7 +2809,7 @@ cap.
 <lb n="6"/>xqha <rs ana="XB'ALAMQ'E">xbalanque</rs> chire cate cut
 <lb n="7"/>taxupixabah hun <rs ana="UMUL">vmul</rs> catqole
 <lb n="8"/>tachiri chuvi<rs ana="JOM">hom</rs> chivi catqohe
-<lb n="9"/>vi chupan pixc xuqhax <rs ana="UMUL">vmul</rs>
+<lb n="9"/>vi chupan <rs ana="PIX">pixc</rs> xuqhax <rs ana="UMUL">vmul</rs>
 <lb n="10"/>rumal <rs ana="XB'ALAMQ'E">xbalanque</rs> chopon na
 <lb n="11"/>quic avq cate catelic ca inqui<pc> –</pc>
 <lb n="12"/>banouic xuqhax ri <rs ana="UMUL">vmul</rs> ta x<pc> –</pc>
@@ -2831,7 +2831,7 @@ cap.
 <lb n="26"/>curi <rs ana="KIK'">quic</rs> chuvach <rs ana="B'ATE">bate</rs> chita<pc> –</pc>
 <lb n="27"/>nenic ta xelic huzu cu xicou
 <lb n="28"/>quic chuvi<rs ana="JOM">hom</rs> xahun xaca<pc> –</pc>
-<lb n="29"/>nab vi tacal pa pix taxel cu<pc> –</pc>
+<lb n="29"/>nab vi tacal <rs ana="PIX">pa pix</rs> taxel cu<pc> –</pc>
 <lb n="30"/>ri <rs ana="UMUL">vmul</rs> chicoxcotic ta xbec
 <lb n="30.1"/>ocotal cut. ta xbe cumal ri <rs ana="RAJAWAL_XIB'ALB'A">xi<pc> –</pc>
 <lb n="31"/>balba</rs> quehuminic, que chani<pc> –</pc>
@@ -2846,7 +2846,7 @@ cap.
 <lb n="40"/>qui cabichal. are cut quebe
 <lb n="41"/>ꜩucuna <rs ana="KIK'">quic</rs> ri<rs ana="XIB'ALB'A">xibalba</rs> cate
 <lb n="42"/>cut xquicamixtah chiri <rs ana="KIK'">quic</rs>
-<lb n="43"/>pa pix, ta xeziquin chicut quix
+<lb n="43"/><rs ana="PIX">pa pix</rs>, ta xeziquin chicut quix
 <lb n="44"/>petoc vae <rs ana="KIK'">quic</rs> que mix cari<pc> –</pc>
 <lb n="45"/>co. xeqha quicolem chicut
 <lb n="46"/>ta xeul <rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs> na qui pa ri
@@ -8629,8 +8629,8 @@ cap.
 <lb n="3"/>gues solo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>yo solo lo hare díxo <rs ana="XB'ALAMQ'E">xba<pc> –</pc>
 <lb n="4"/>lanque</rs> ael. y luego mando a <rs ana="UMUL">vn
 <lb n="5"/>conejo</rs>, y le díxo anda estate allí <rs ana="JOM">en
-<lb n="6"/>çementerío</rs>, y metete allí en el toma<pc> –</pc>
-<lb n="7"/>tal. le fue dícho <rs ana="UMUL">al conejo</rs> por <rs ana="XB'ALAMQ'E">xbalan
+<lb n="6"/>çementerío</rs>, y metete allí en <rs ana="PIX">el toma<pc> –</pc>
+<lb n="7"/>tal</rs>. le fue dícho <rs ana="UMUL">al conejo</rs> por <rs ana="XB'ALAMQ'E">xbalan
 <lb n="8"/>que</rs>, quando llegue <rs ana="KIK'">el vle</rs> atí, lu
 <lb n="9"/>ego sal, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>yo lo hare lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> he de haçer
 <lb n="10"/>le fue dícho <rs ana="UMUL">al conejo</rs> quando se le
@@ -8652,8 +8652,8 @@ cap.
 <lb n="21"/>al enquentro <rs ana="XB'ALAMQ'E">xbalanque</rs>, y dere<pc> –</pc>
 <lb n="22"/>cho <rs ana="KIK'">el vle</rs> <rs ana="B'ATE">al bate</rs> allí paro, y sa<pc> –</pc>
 <lb n="23"/>lío atoda prísa apso sobre <rs ana="JOM">el ze<pc> –</pc>
-<lb n="24"/>menterio</rs> y fue derecho al toma<pc> –</pc>
-<lb n="25"/>tal, ysalíendo ensconces <rs ana="UMUL">el conejo</rs>
+<lb n="24"/>menterio</rs> y fue derecho <rs ana="PIX">al toma<pc> –</pc>
+<lb n="25"/>tal</rs>, ysalíendo ensconces <rs ana="UMUL">el conejo</rs>
 <lb n="26"/>saltando, luego fueron en seguímí<pc> –</pc>
 <lb n="27"/>ento suyo con gran ruído, y vozería
 <lb n="28"/>fueron tras <rs ana="UMUL">el conejo</rs> todos <rs ana="RAJAWAL_XIB'ALB'A">los de el
@@ -8665,7 +8665,7 @@ cap.
 <lb n="34"/>esto estaban alegres entrambos
 <lb n="35"/>ados. y luego fueron a buscar <rs ana="KIK'">el
 <lb n="36"/>vle</rs> <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs>, y ya auía sído
-<lb n="37"/>cogído allí en el tomatal. y lue<pc> –</pc>
+<lb n="37"/>cogído allí en <rs ana="PIX">el tomatal</rs>. y lue<pc> –</pc>
 <lb n="38"/>go fueron llamados veníd don
 <lb n="39"/>de esta? <rs ana="KIK'">el vle</rs> nuestro <abbr>e<add place="above" instant="false" status="unremarkable">’</add></abbr><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lo halla<pc> –</pc>
 <lb n="40"/>mos, díxeron en su costumbre, y
