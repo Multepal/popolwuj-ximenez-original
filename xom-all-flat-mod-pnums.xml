@@ -5394,7 +5394,7 @@ cap.
 <lb n="40"/>qohe ta que calem vachin el chi<pc> –</pc>
 <lb n="41"/>namit choc vi in<rs ana="AJPOP">ahpop</rs> in <rs ana="AJPOP_K'AMJA">ahpop<pc> –</pc>
 <lb n="42"/>camha</rs> <rs ana="AJPOP">ahpop</rs> chire caleh ve choc
-<lb n="43"/>chicu aue at <rs ana="AJAW_Q'ALEL">ahau ealel</rs> ealel
+<lb n="43"/>chicu aue at <rs ana="AJAW_Q'ALEL">ahau ealel</rs> <rs ana="AJAW_Q'ALEL">ealel</rs>
 <lb n="44"/>ri calem xchuxic xeqhacut ro<pc> –</pc>
 <lb n="45"/>nohel ahauab taxcam quinaoh
 <lb n="46"/>xavi cu quehe xubano <rs ana="TAMUB'">tamub</rs>, <rs ana="ILOKAB'">i
@@ -5438,8 +5438,8 @@ cap.
 <lb n="29"/>are cut, vxenahic <rs ana="Q'ALEL">ealel</rs> <rs ana="AJPOP">ahpop</rs> ré
 <lb n="30"/>ealem pahuhun chi huyub vacamic.
 <lb n="31"/>quehe relic ri ta xeelic chirih <rs ana="AJPOP">ah
-<lb n="32"/>pop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs> chirih puchca<pc> –</pc>
-<lb n="33"/>lel <rs ana="AJTZIK_WINAQ">ahꜩicvinac</rs> xelvi
+<lb n="32"/>pop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs> chirih <rs ana="AJTZIK_WINAQ">puchca<pc> –</pc>
+<lb n="33"/>lel ahꜩicvinac</rs> xelvi
 </p>
 <p xml:id="p86">
 <lb n="34" rend="indent"/><hi rend="large">A</hi>recut xchicabÿhchic vbiro
@@ -11207,9 +11207,9 @@ cap.
 <lb n="37"/>do, y captíuado. y luego juntaron su
 <lb n="38"/>consejo todos <rs ana="AJPOP">los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice></rs> y <rs ana="AJPOP_K'AMJA">prínçípales</rs>
 <lb n="39"/>y díspusíeron en su consejo y díxeron
-<lb n="40"/>seran <rs ana="AJPOP_K'AMJA">prínçípales</rs> todos <rs ana="Q'ALEL">los capítanes</rs>
-<lb n="41"/>de los chínamítales, seran <rs ana="AJTZIK_WINAQ"><choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de trono
-<lb n="42"/>y asíento</rs>, esto díspusíeron <rs ana="AJPOP_K'AMJA">los prínçí<pc> –</pc>
+<lb n="40"/>seran <rs ana="AJPOP_K'AMJA">prínçípales</rs> todos <rs ana="AJPOP">los capítanes</rs>
+<lb n="41"/>de los chínamítales, seran <rs ana="AJAW_Q'ALEL"><choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de trono
+<lb n="42"/>y asíento</rs>, esto díspusíeron <rs ana="AJAW_Q'ALEL">los prínçí<pc> –</pc>
 <lb n="43"/>pales</rs> quando juntaron su consejo. y
 <lb n="44"/>asímes mo híçíeron los de <rs ana="TAMUB'">tamub</rs>, <rs ana="ILOKAB'">eylo<pc> –</pc>
 <lb n="45"/>cab</rs>. a una todos los tres calpules
