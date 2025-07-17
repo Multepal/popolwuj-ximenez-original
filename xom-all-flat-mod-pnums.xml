@@ -2171,7 +2171,7 @@ cap.
 <lb n="37"/>cutum <rs ana="IK">ic</rs> colon vloc ri<rs ana="CH'O">cho</rs> chirih
 <lb n="38"/><rs ana="KIK'">quic</rs> xequelvi puvi ha taxquilo pa
 <lb n="39"/>cutum<rs ana="IK">ic</rs> ta xquitac cut b<corr instant="false"><hi rend="handwriting;color:black">h</hi></corr>un <rs ana="XA'N">xan</rs> ri                          
-<lb n="40"/>chicop ri<rs ana="XA'N">xan</rs> queheri uz xopon chi 
+<lb n="40"/>chicop ri<rs ana="XA'N">xan</rs> queheri <rs ana="US">uz</rs> xopon chi 
 <lb n="41"/>a. <!--editor's note: Ajtz'ib'ab' adds a paragraph here -->are cu xvoro vvach quebal <rs ana="IXMUKANE">a<pc> –</pc>
 <lb n="42"/>tit</rs> xa yacal ha chel chuvach vque
 <lb n="43"/>bal chutiho xma chiꜩapitah vi v
@@ -3236,7 +3236,7 @@ cap.
 <lb n="23"/>binaah vi <hi rend="underline">nicah</hi> ha, <hi rend="underline">nicah</hi> bichoc
 <lb n="24"/>rumal xa chunicahal vpa co<pc> –</pc>
 <lb n="25"/>choch xquitic <rs ana="AJ">ah</rs>. are chi cu
-<lb n="26"/>xubinaah vi chatam vleu
+<lb n="26"/>xubinaah vi <rs ana="CH'ATAM_ULEW">chatam vleu</rs>
 <lb n="27"/>cazam ah chuvi chata vleu
 <lb n="28"/>quitic vi <rs ana="AJ">ah</rs>. are nai pu xubi<pc> –</pc>
 <lb n="29"/>naah vi cazam ah rumal xpe
@@ -7998,7 +7998,7 @@ cap.
 <lb n="37"/>brado <rs ana="CH'O">elraton</rs> en <rs ana="IK">el chíle</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaba colgado
 <lb n="38"/>en el tapanco, y entonces lo víeron en <rs ana="IK">el chíle</rs>.
 <lb n="39"/>ó <rs ana="IK">chílmol</rs>. y embíaron entonçes un anímale<pc> –</pc>
-<lb n="40"/>jo llamado: <rs ana="XA'N">xan</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es como mosquito, y fue
+<lb n="40"/>jo llamado: <rs ana="XA'N">xan</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> <rs ana="US">es como mosquito</rs>, y fue
 <lb n="41"/>al agua, ó arroyo y horado la tínaja de el
 <lb n="42"/>agua de <rs ana="IXMUKANE">la víeja</rs>, ysesalía el agua de la tí<pc> –</pc>
 <lb n="43"/>naja. probaba, y no se podia zerrar el hoyo de 
@@ -9055,7 +9055,7 @@ cap.
 <lb n="19"/>tría por su <rs ana="IXMUKANE">abuela</rs>, y entonçes fue lla<pc> –</pc>
 <lb n="20"/>mada la mítad de la casa. y la mítad
 <lb n="21"/>de el çentro. o remolino. y llamase
-<lb n="22"/>chatam vleu. tíerra hecha cama. y así
+<lb n="22"/><rs ana="CHATAM_ULEW">chatam vleu</rs>. <rs ana="CHATAM_ULEW">tíerra hecha cama</rs>. y así
 <lb n="23"/>sellamo el medío de la casa, y del re
 <lb n="24"/>molino por ellos, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> en el medío de
 <lb n="25"/>la casa fueron sembradas <rs ana="AJ">las cañas</rs>. y
