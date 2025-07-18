@@ -469,10 +469,10 @@ cap.
 <lb n="44"/>quihil hab, acabal hab xoc vla
 <lb n="45"/>chuti chicop nima chicop xcut
 <lb n="46"/>qui vach rumal che abah. x<pc> –</pc>
-<lb n="47"/>qhauic ronohel qui quebal<pc> –</pc>
+<lb n="47"/>qhauic ronohel <rs ana="Q'EB'AL">qui quebal</rs><pc> –</pc>
 <pb xml:id="xom-f05-s1"/>
-<lb n="1"/>quixot, qui lac, qui boh, qui ꜩi
-<lb n="2"/>qui<rs ana="KA'">kaa</rs>, haruh pala ronohel
+<lb n="1"/><rs ana="XOT">quixot</rs>, <rs ana="LAQ">qui lac</rs>, <rs ana="B'OJ">qui boh</rs>, <rs ana="TZ'I'">qui ꜩi</rs>
+<lb n="2"/><rs ana="KA'">quikaa</rs>, haruh pala ronohel
 <note place="margin-left" anchored="true">
 <del cert="high" instant="false" status="unremarkable">
 <num rend="large">1</num>
@@ -480,7 +480,7 @@ cap.
 </note>
 <lb n="3"/>xcutu qui vach <!-- editor's note: Ajtz'ib'ab adds a paragraph here -->cax xiban
 <lb n="4"/>chique, xohitio ixchi cut x<pc> –</pc>
-<lb n="5"/>quixcati chic xqhari qui ꜩi
+<lb n="5"/>quixcati chic xqhari <rs ana="TZ'I'">qui ꜩi</rs>
 <lb n="6"/>cac chiquech. re cu ri <rs ana="KA'">ꜫaa</rs>
 <lb n="7"/>xohcoconic iuumal hu ta
 <lb n="8"/>quih, hu ta quih, xquec zaqui<pc> –</pc>
@@ -491,8 +491,8 @@ cap.
 <lb n="13"/>mic cut xchitih ca chucab
 <lb n="14"/>xchicaqueeh, xchicahoc
 <lb n="15"/>puch i tiohil xqhari qui
-<lb n="16"/>ꜫaa chique. <!-- editor's note: Ajtz'ib'ab adds a paragraph here -->are curi qui
-<lb n="17"/>ꜩi xqha chic ta xqhauic, na
+<lb n="16"/><rs ana="KA'">ꜫaa</rs> chique. <!-- editor's note: Ajtz'ib'ab adds a paragraph here -->are curi qui
+<lb n="17"/><rs ana="TZ'I'">ꜩi</rs> xqha chic ta xqhauic, na
 <lb n="18"/>qui pa rumal maui chi<pc> –</pc>
 <lb n="19"/>ya cava, xa cohmucunic
 <lb n="20"/>xa pu cohicuxih vloc, coh
@@ -505,15 +505,15 @@ cap.
 <lb n="27"/>xixnau ta cut chiuih ta cut
 <lb n="28"/>xohzach vi, vacamic cut x<pc> –</pc>
 <lb n="29"/>chitih cabac qo pa ca chi x<pc> –</pc>
-<lb n="30"/>quixcatio xeqha ri ꜩi chi<pc> –</pc>
+<lb n="30"/>quixcatio xeqha ri <rs ana="TZ'I'">ꜩi</rs> chi<pc> –</pc>
 <lb n="31"/>que ta xcut qui vach. <!--editor's note: Ajtz'ib'ab' adds a paragraph here -->are
-<lb n="32"/>chicuri qui xot, qui boh x<pc> –</pc>
+<lb n="32"/>chicuri qui <rs ana="XOT">xot</rs>, <rs ana="B'OJ">qui boh</rs> x<pc> –</pc>
 <lb n="33"/><note place="margin-left" anchored="true"><del rend="strikethrough" instant="false" status ="unremarkable">--|</del></note>chau chic chique: cax, va xi
 <lb n="34"/>ban chique xac ca chi, xac<pc> –</pc>
 <lb n="35"/>ca vach; amaquel oh ꜩacal
 <lb n="36"/>chuuicac cohicato maui cax
 <lb n="37"/>xcanao, xchitih cut xquix
-<lb n="38"/>caporoh xcha ri qui boh ro<pc> –</pc>
+<lb n="38"/>caporoh xcha ri <rs ana="B'OJ">qui boh</rs> ro<pc> –</pc>
 <lb n="39"/>nohel xcutu qui vach. <!--editor's note: Ajtz'ib'ab' paragraph 22 -->areri
 <lb n="40"/>abah ri quixcub chitaninic
 <lb n="41"/>chipe paꜫaꜫ taeal chi qui<pc> –</pc>
@@ -6285,29 +6285,29 @@ cap.
 <lb n="36"/>y de día. y víno todo genero de animales chi<pc> –</pc>
 <lb n="37"/>cos y grandes, y los palos, y las píedras, y les<pc> –</pc>
 <lb n="38"/>dieron en rostro, y afrentaron, y todos habla<pc> –</pc>
-<lb n="39"/>ron, las píedras, comales, platos<pc> –</pc>
+<lb n="39"/>ron, <rs ana="QE'B'AL">las píedras</rs>, <rs ana="XOT">comales</rs>, <rs ana="LAQ">platos</rs><pc> –</pc>
 <lb/>
 <lb/>
 <lb/>
 <lb/>
 <pb corresp="xom-f05-s1"/>
-<lb n="1"/>caxetes, <rs ana="KA'">ollas</rs>, perros, y tínajas. todos quan<pc> –</pc>
+<lb n="1"/><rs ana="B'OJ">caxetes</rs>, <rs ana="B'OJ">ollas</rs>, <rs ana="TZ'I'">perros</rs>, y <rs ana="KA'">tínajas</rs>. todos quan<pc> –</pc>
 <note place="margin-right" anchored="true"><del cert="low" instant="false" status="unremarkable"><num rend="large">5</num></del></note>
 <lb n="2"/>tos <hi rend="underline">ubo</hi> les afrentaron, y les dixeron, muy mal
 <note place="margin-middle" anchored="true"><num rend="large">4</num></note>
 <lb n="3"/>nos tratastes, nos mordiste, y así os mordere
-<lb n="4"/>mos agora, dixeron los perros, y las gallínas.
-<lb n="5"/>y las piedras de moler dixeron. fuímos muy
+<lb n="4"/>mos agora, dixeron <rs ana="TZ'I'">los perros</rs>, y las gallínas.
+<lb n="5"/>y <rs ana="KA'">las piedras de moler</rs> dixeron. fuímos muy
 <lb n="6"/>atormentadas por vosotros todos, todos los días
 <lb n="7"/>ala tarde ala mañana; siempre hazíendo
 <lb n="8"/>holí, holí, huquí, huquí. (esto es el sonído de
-<lb n="9"/>la piedra, y el chíflido <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hazen almoler,) y
+<lb n="9"/><rs ana="KA'">la piedra</rs>, y el chíflido <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hazen almoler,) y
 <lb n="10"/>este fue nuestro trabaxo en vuestras caras, y
 <lb n="11"/>fueraís bíenquístos, y pues no lo fuistes, ago<pc> –</pc>
 <lb n="12"/>ra probareís nuestras fuerzas, moleremos
 <lb n="13"/>vuestras carnes, y haremos harína vuestros
-<lb n="14"/>cuerpos. esto les díxeron las píedras de mo<pc> –</pc>
-<lb n="15"/>ler. y los perros díxeron <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> hablaron: <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>no<pc> –</pc>
+<lb n="14"/>cuerpos. esto les díxeron <rs ana="KA'">las píedras de mo<pc> –</pc>
+<lb n="15"/>ler</rs>. y <rs ana="TZ'I'">los perros</rs> díxeron <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> hablaron: <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>no<pc> –</pc>
 <lb n="16"/>nos dabaís nuestra comida, sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>solo estaba<pc> –</pc>
 <lb n="17"/>mos mírandoos, y nos corríaís, y nos arrojabaís,
 <lb n="18"/>y siempre estaba prevenido un palo para dar<pc> –</pc>
@@ -6316,16 +6316,16 @@ cap.
 <lb n="21"/><choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> no mírasteís por vosotros? así nos perdí<pc> –</pc>
 <lb n="22"/>mos, agora probareís nuestros dientes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es<pc> –</pc>
 <lb n="23"/>tan en nuestra voca, os comeremos. díxeron
-<lb n="24"/>los perros. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> les dieron en rostro. y los coma<pc> –</pc>
-<lb n="25"/>les, y las ollas los hablaron en esta forma:
+<lb n="24"/><rs ana="TZ'I'">los perros</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> les dieron en rostro. y <rs ana="XOT">los coma<pc> –</pc>
+<lb n="25"/>les</rs>, y <rs ana="B'OJ">las ollas</rs> los hablaron en esta forma:
 <lb n="26"/>dolor, y pena nos dísteís. nuestras vocas, y
 <lb n="27"/>nuestros rostros tíznados, siempre estaba<pc> –</pc>
 <lb n="28"/>mos cociendo sobre el fuego, nos quemas<pc> –</pc>
 <lb n="29"/>teís, y no sentimos el dolor, probareís ago<pc> –</pc>
-<lb n="30"/>ra, y os quemaremos dixeron las ollas
-<lb n="31"/>todas dandoles en rostro. y las piedras
+<lb n="30"/>ra, y os quemaremos dixeron <rs ana="B'OJ">las ollas</rs>
+<lb n="31"/>todas dandoles en rostro. y <rs ana="KA'">las piedras</rs>
 <lb n="32"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>eran tenamastes con furia venga el
-<lb n="33"/>fuego, nuestras cabezas puestas pa. la olla
+<lb n="33"/>fuego, nuestras cabezas puestas pa.<choice><abbr>q’</abbr><expan instant="false">para</expan></choice> <rs ana="B'OJ">la olla</rs>
 <lb n="34"/>nos hízísteís, y causasteís dolor. y anda<pc> –</pc>
 <lb n="35"/>ban corriendo, desatinados, y queriendo
 <lb n="36"/>subirse sobre las casas, y se les caía la ca<pc> –</pc>
