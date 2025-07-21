@@ -1806,12 +1806,12 @@ cap.
 <lb n="27"/>chouen</rs> maui xe culax paha cu<pc> –</pc>
 <lb n="28"/>mal <rs ana="KA'IB'_K'AJOLAB'">quichac</rs> nabec xamaui que
 <lb n="29"/>taam xavi cu pahuiub xequÿ vi
-<lb n="30"/>e cu nimac <del rend="strikeout" instant="false" status="unremarkable">p</del><rs ana="SU'">ahzu</rs> ahbix ri<rs ana="JUN_B'ATZ">hun
+<lb n="30"/>e cu nimac <del rend="strikeout" instant="false" status="unremarkable">p</del><rs ana="SU'">ahzu</rs> <rs ana="AJB'IX">ahbix</rs> ri<rs ana="JUN_B'ATZ">hun
 <lb n="31"/>baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs>. xenimaquir cut
 <lb n="32"/>nima caxcol rail. xeicou vi xecax<pc> –</pc>
 <lb n="33"/>cobizaxic enimac etamanel chic
-<lb n="34"/>xeuxic. <!--editor's note: Ajtz'ib'ab' adds a paragraph here-->xavixere e <rs ana="SU'">ahzu</rs> e ahbix
-<lb n="35"/>e pu ahzibab, ahcot xevxic rono<pc> –</pc>
+<lb n="34"/>xeuxic. <!--editor's note: Ajtz'ib'ab' adds a paragraph here-->xavixere e <rs ana="SU'">ahzu</rs> e <rs ana="AJB'IX">ahbix</rs>
+<lb n="35"/>e <rs ana="AJPU">pu</rs> <rs ana="AJTZ'IB'">ahzibab</rs>, <rs ana="AJK'OT">ahcot</rs> xevxic rono<pc> –</pc>
 <lb n="36"/>hel chuꜩin cumal. xa xquetaam
 <lb n="37"/>vi xealaxic xa xenauinac epu
 <lb n="38"/><rs ana="JUN_JUNAJPU">uquexel</rs> <rs ana="JUN_JUNAJPU">qui cahau</rs> ri xebe chi<pc> –</pc>
@@ -1978,16 +1978,16 @@ cap.
 <lb n="47"/>nahic <rs ana="JUN_B'ATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs>
 <pb xml:id="xom-f20-s1"/>
 <lb n="1"/>quevqhaxic xeqha ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XB'ALAMQ'E">xba<pc> –</pc>
-<lb n="2"/>lanque</rs> xeziquix cut rumal ri ah<rs ana="SU'">zu</rs>
-<lb n="3"/>ahbix, ri oher vinac are puch chu<pc> –</pc>
-<lb n="4"/>zi quih ri ahzib ahcot oher xechi<pc> –</pc>
+<lb n="2"/>lanque</rs> xeziquix cut rumal ri <rs ana="SU'">ahzu</rs>
+<lb n="3"/><rs ana="AJB'IX">ahbix</rs>, ri oher vinac are puch chu<pc> –</pc>
+<lb n="4"/>zi quih ri <rs ana="AJTZ'IB'">ahzib</rs> <rs ana="AJK'OT">ahcot</rs> oher xechi<pc> –</pc>
 <lb n="5"/>copiric e<rs ana="K'OY">coy</rs> xevxic rumal xax
 <lb n="6"/>quinimarizah quib xquiyoc ri <rs ana="KA'IB'_K'AJOLAB'">qui
 <lb n="7"/>chac</rs> quehevi calabil chiqui qux
 <lb n="8"/>quehecut qui maixic ri ta xezachic
 <lb n="9"/>ri <rs ana="JUN_B'ATZ">hun baꜩ</rs><rs ana="JUN_CHOWEN">hun choven</rs>. e chicop xe<pc> –</pc>
 <lb n="10"/>vxic are cut erama quelal coccho<pc> –</pc>
-<lb n="11"/>ch chic xavi xere e <rs ana="SU'">ahzu</rs> e ahbix
+<lb n="11"/>ch chic xavi xere <rs ana="SU'">e ahzu</rs> <rs ana="AJB'IX">e ahbix</rs>
 <lb n="12"/>nim chic xquibano ta xecoheic rug
 <lb n="13"/><rs ana="IXMUKANE">ratit</rs> rug pu <rs ana="IXB'AQIYALO">quichuch</rs>
 </p>
@@ -7551,8 +7551,8 @@ cap.
 <lb n="5"/>vsted auerlos, en lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> yo traígo le fue dí<pc> –</pc>
 <lb n="6"/>cho a <rs ana="IXMUKANE">la víeja</rs>. y entonces por esto se enoja<pc> –</pc>
 <lb n="7"/>ron <rs ana="JUN_B'ATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> solo enten
-<lb n="8"/>dían entocar <rs ana="SU'">flautas</rs>, y cantar, en píntar,
-<lb n="9"/>y hacer obras de talla todo el día, y eran 
+<lb n="8"/>dían entocar <rs ana="SU'">flautas</rs>, y <rs ana="AJB'IX">cantar</rs>, en <rs ana="AJTZ'IB'">píntar</rs>,
+<lb n="9"/>y <rs ana="AJK'OT">hacer obras de talla</rs> todo el día, y eran 
 <lb n="10"/>elconsuelo de <rs ana="IXMUKANE">la víeja</rs>, quíen dixo, denín<pc> –</pc>
 <lb n="11"/>gun modo quiero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> seas <rs ana="IXKIK'">mí nuera</rs>, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
 <lb n="12"/>es de forniçío eso <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> tíenes en tu víentre.
@@ -7631,12 +7631,12 @@ cap.
 <lb n="26"/>y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> no fuesen recíuídos en casa porlos
 <lb n="27"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran sus hermanos, pero no les cono<pc> –</pc>
 <lb n="28"/>çían. y así se críaron en el monte, y así
-<lb n="29"/>fueron grandes <rs ana="SU'">flauteros</rs>, y cantores los
+<lb n="29"/>fueron grandes <rs ana="SU'">flauteros</rs>, y <rs ana="AJB'IX">cantores</rs> los
 <lb n="30"/>dos <rs ana="JUN_B'ATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">hunchouen</rs>. y auíendo
 <lb n="31"/>crecído en grantrabaxo, y dolor <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> pa<pc> –</pc>
 <lb n="32"/>saron, fueron muy sabíos, y tambíen
-<lb n="33"/><rs ana="SU'">fluteros</rs>, cantores, píntores, y entalla<pc> –</pc>
-<lb n="34"/>dores, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> todo era acabado por ellos y
+<lb n="33"/><rs ana="SU'">fluteros</rs>, <rs ana="AJB'IX">cantores</rs>, <rs ana="AJTZ'IB'">píntores</rs>, y <rs ana="AJK'OT">entalla<pc> –</pc>
+<lb n="34"/>dores</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> todo era acabado por ellos y
 <lb n="35"/>cíertamente sabían su naçímíento, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> e
 <lb n="36"/>ran sabíos, y substitutes de <rs ana="JUN_JUNAJPU">sus Padres</rs>,
 <lb n="37"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fueron <rs ana="XIB'ALB'A">al fíerno</rs>, y eran grandes sabí<pc> –</pc>
@@ -7807,9 +7807,9 @@ cap.
 </note>
 <lb n="1"/>les fue dicho a<rs ana="IXMUKANE">la víeja</rs>, y a su <choice><abbr type="superscription"><rs ana="IXB'AQIYALO">Me.</rs></abbr><expan instant="false">Madre</expan></choice> y díxeron el
 <lb n="2"/><rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XB'ALAMQ'E">xbalanque</rs>. y fueron llamados por
-<lb n="3"/>los tocadores de <rs ana="SU'">flautas</rs>, y los cantores, y a estos in<pc> –</pc>
-<lb n="4"/>uocaron los hombres antíguos los píntores, y enta<pc> –</pc>
-<lb n="5"/>lladores, se bolbíeron en brutos <rs ana="K'OY">mícos</rs> <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> se
+<lb n="3"/>los tocadores de <rs ana="SU'">flautas</rs>, y <rs ana="AJB'IX">los cantores</rs>, y a estos in<pc> –</pc>
+<lb n="4"/>uocaron los hombres antíguos <rs ana="AJTZ'IB'">los píntores</rs>, y <rs ana="AJK'OT">enta<pc> –</pc>
+<lb n="5"/>lladores</rs>, se bolbíeron en brutos <rs ana="K'OY">mícos</rs> <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> se
 <lb n="6"/>ensoberbeçíeron, y maltrataron a<rs ana="KA'IB'_K'AJOLAB'">sus hermanos</rs>
 <lb n="7"/>y les tuvíeron como a esclauos, y así fueron bor
 <lb n="8"/>rados, quando fueron perdídos el <rs ana="JUN_B'ATZ">hun baꜩ</rs>, y
@@ -7817,7 +7817,7 @@ cap.
 <lb n="10"/>
 <del instant="false" status="unremarkable"><choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
 </del>seestaban en sus casas síempre, y fueron 
-<lb n="11"/>tocadores de <rs ana="SU'">flautas</rs>, y cantores, e híçíeron
+<lb n="11"/>tocadores de <rs ana="SU'">flautas</rs>, y <rs ana="AJB'IX">cantores</rs>, e híçíeron
 <lb n="12"/>grandes cosas estos quando estuuíeron con
 <lb n="13"/>su <choice><abbr type="superscription"><rs ana="IXB'AQIYALO">Me.</rs></abbr><expan instant="false">Madre</expan></choice> y<rs ana="IXMUKANE">abuela</rs>
 </p>
