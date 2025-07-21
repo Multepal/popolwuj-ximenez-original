@@ -3946,8 +3946,8 @@ cap.
 <lb n="10"/>nahvi xcucanahoc pazivan
 <lb n="11"/>rumal <rs ana="B'ALAM_AQ'AB'">Balam acab</rs>. cholom
 <lb n="12"/>vcanahic vnabe ri xcanah chi
-<lb n="13"/>cut <rs ana="JAQAWITZ">hacaviꜩ</rs> chuvi hun nima
-<lb n="14"/>caeha <rs ana="JAQAWITZ_JUYUB'">hacaviꜩ</rs> vbi huyub
+<lb n="13"/>cut <rs ana="JAQAWITZ">hacaviꜩ</rs> chuvi hun <rs ana="JAQAWITZ_JUYUB'">nima
+<lb n="14"/>caeha hacaviꜩ</rs> vbi <rs ana="JAQAWITZ_JUYUB'">huyub</rs>
 <lb n="15"/>vacamic. xquitinamit curi xa<pc> –</pc>
 <lb n="16"/>xic chiricut xqohe vi caba
 <lb n="17"/>vil <rs ana="JAQAWITZ">hacaviꜩ</rs> vbi. xavi, xca<pc> –</pc>
@@ -3955,13 +3955,13 @@ cap.
 <lb n="19"/>vcab cut cabavil ri xe<pc> –</pc>
 <lb n="20"/>vax cumal mana paqu e<pc> –</pc>
 <lb n="21"/>chelah xqohe vi <rs ana="JAQAWITZ">hacaviꜩ</rs> xa
-<lb n="22"/>zaqui huyub xevax vi <rs ana="JAQAWITZ">hacaviꜩ</rs>
+<lb n="22"/><rs ana="JAQAWITZ_JUYUB'">zaqui huyub</rs> xevax vi <rs ana="JAQAWITZ">hacaviꜩ</rs>
 <lb n="23"/>ta xpe chicut <rs ana="B'ALAM_KI'TZE'">balam quiꜩe</rs> xul
 <lb n="24"/>chiri panima quechelah xul
 <lb n="25"/>euaxa vi <rs ana="TOJIL">tohil</rs> rumal <rs ana="B'ALAM_KI'TZE'">Balam
 <lb n="26"/>quiꜩe</rs> <rs ana="PA_TOJIL">patohil</rs> qhuqhax va<pc> –</pc>
 <lb n="27"/>camic vbi huyub ta xquicobi<pc> –</pc>
-<lb n="28"/>zah ri euabal zivan, <rs ana="KUNAB'AL_TOJIL">cuna<pc> –</pc>
+<lb n="28"/>zah ri <rs ana="KUNAB'AL_TOJIL">euabal zivan</rs>, <rs ana="KUNAB'AL_TOJIL">cuna<pc> –</pc>
 <lb n="29"/>bal tohil</rs> ꜩaꜩ chi <rs ana="KUMATZ">cumaꜩ</rs>, ꜩaꜩ
 <lb n="30"/>puch chi <rs ana="B'ALAM">balam</rs>, <rs ana="SOCHOJ">zochoh</rs>, <rs ana="K'ANTI'">can<pc> –</pc>
 <lb n="31"/>ti</rs> chiri pa quechelah xeqohe
@@ -4095,13 +4095,13 @@ cap.
 <lb n="11"/>xqha chupan quiꜩih. cate puch
 <lb n="12"/>huzu xabahir <rs ana="TOJIL">ritohil</rs> <rs ana="AWILIX">aulix</rs> <rs ana="JAQAWITZ">ha<pc> –</pc>
 <lb n="13"/>caviꜩ</rs> ruq v cabavilal <rs ana="KOJ">coh</rs> <rs ana="B'ALAM">ba<pc> –</pc>
-<lb n="14"/>lam</rs> <rs ana="SOCHOJ">zochoh</rs> <rs ana="K'ANTI'">canti</rs> <rs ana="SAQIK'OXOL">zaquicoxol</rs>
+<lb n="14"/>lam</rs> <rs ana="SOCHOJ">zochoh</rs> <rs ana="K'ANTI'">canti</rs> <rs ana="SAQI_K'OXOL">zaquicoxol</rs>
 <lb n="15"/>xa xuchap chi vca rib pache
 <lb n="16"/>ta xvachin quih ic, chumil hu<pc> –</pc>
 <lb n="17"/>mah abah xuxic ronohel ma<pc> –</pc>
 <lb n="18"/>taoh yacamarinac lo vacamic
 <lb n="19"/>rumal ri tion el chicop <rs ana="KOJ">coh</rs> <rs ana="B'ALAM">ba<pc> –</pc>
-<lb n="20"/>lam</rs> <rs ana="SOCHOJ">zochoh</rs> <rs ana="K'ANTI'">canti</rs> <rs ana="SAQIK'OXOL">zaquicoxol</rs>
+<lb n="20"/>lam</rs> <rs ana="SOCHOJ">zochoh</rs> <rs ana="K'ANTI'">canti</rs> <rs ana="SAQI_K'OXOL">zaquicoxol</rs>
 <lb n="21"/>mata habi caquih lo vacamic
 <lb n="22"/>mata xabahiric vnabe chicop
 <lb n="23"/>rumal quih ta xel vloc nima
@@ -9757,11 +9757,11 @@ cap.
 <lb n="3"/>y buscaremos montes, díxeron todos.
 <lb n="4"/>y luego tomaron cargados sus ídolos
 <lb n="5"/>y cada vno dellos lleuo al <rs ana="AWILIX">auílíx</rs> á
-<lb n="6"/>vna barranca <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama. <rs ana="EWAB'AL_SIWAN">barranca
-<lb n="7"/>de el escondídízo</rs>. por nosotros. en vna
-<lb n="8"/>gran barranca en la montaña <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ago<pc> –</pc>
+<lb n="6"/><rs ana="EWAB'AL_SIWAN">vna barranca</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama. <rs ana="EWAB'AL_SIWAN">barranca
+<lb n="7"/>de el escondídízo</rs>. por nosotros. en <rs ana="EWAB'AL_SIWAN">vna
+<lb n="8"/>gran barranca</rs> en <rs ana="PA_AWILIX">la montaña</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ago<pc> –</pc>
 <lb n="9"/>ra sellama: <rs ana="PA_AWILIX">en auílís</rs>, y allí sequedo.
-<lb n="10"/>y quedo en la barranca por <rs ana="B'ALAM_AQ'AB'">balamacab</rs>
+<lb n="10"/>y quedo en <rs ana="EWAB'AL_SIWAN">la barranca</rs> por <rs ana="B'ALAM_AQ'AB'">balamacab</rs>
 <lb n="11"/>y en ringlera los dexaron el prímero
 <lb n="12"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>quedo fue <rs ana="JAQAWITZ">hacauíꜩ</rs>. sobre vn río
 <lb n="13"/>grande llamado agua colorada, y se
@@ -9774,20 +9774,20 @@ cap.
 <lb n="20"/>estuvo <rs ana="JAQAWITZ">hacauíꜩ</rs>, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> em un çero
 <lb n="21"/>patente, y raso se escondío, el <rs ana="JAQAWITZ">haca<pc> –</pc>
 <lb n="22"/>uíꜩ</rs>. y entonçes víno el <rs ana="B'ALAM_KI'TZE'">balamquí
-<lb n="23"/>ꜩe</rs>, y llego allí a vna gran monta<pc> –</pc>
-<lb n="24"/>ña, a ocultar al <rs ana="TOJIL">tohíl</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lo escondío
+<lb n="23"/>ꜩe</rs>, y llego allí a <rs ana="PA_TOJIL">vna gran monta<pc> –</pc>
+<lb n="24"/>ña</rs>, a ocultar al <rs ana="TOJIL">tohíl</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lo escondío
 <lb n="25"/><rs ana="B'ALAM_KI'TZE'">balamquíꜩe</rs>. y agora se llama: <rs ana="PA_TOJIL">pa<pc> –</pc>
-<lb n="26"/>tohíl</rs>. aquella montaña. y celebra<pc> –</pc>
-<lb n="27"/>ron, la escondedura en la barranca.
+<lb n="26"/>tohíl</rs>. <rs ana="PA_TOJIL">aquella montaña</rs>. y celebra<pc> –</pc>
+<lb n="27"/>ron, la escondedura en <rs ana="KUNAB'AL_TOJIL">la barranca</rs>.
 <lb n="28"/><rs ana="KUNAB'AL_TOJIL">guarda de el tohíl</rs>. y muchas <rs ana="KUMATZ">cule<pc> –</pc>
 <lb n="29"/>bras</rs>, y muchos <rs ana="B'ALAM">tígres</rs>, <rs ana="SOCHOJ">víuoras</rs>, y <rs ana="K'ANTI'">can<pc> –</pc>
-<lb n="30"/>ties</rs>, estan allí en la barranca, y la
-<lb n="31"/>montaña donde se escondíeron, por
-<lb n="32"/>aquellos <choice><abbr>Ses</abbr><expan instant="false">Señores</expan></choice>. prínçípales; y estuuí<pc> –</pc>
+<lb n="30"/>ties</rs>, estan allí en <rs ana="KUNAB'AL_TOJIL">la barranca</rs>, y <rs ana="JAQAWITZ_JUYUB'">la
+<lb n="31"/>montaña</rs> donde se escondíeron, por
+<lb n="32"/>aquellos <rs ana="XA_Q'ANA_JAL"><choice><abbr>Ses</abbr><expan instant="false">Señores</expan></choice>. prínçípales</rs>; y estuuí<pc> –</pc>
 <lb n="33"/>ron juntos, en vno el <rs ana="B'ALAM_KI'TZE'">balamquíꜩe</rs>
 <lb n="34"/><rs ana="B'ALAM_AQ'AB'">balamacab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IQ'I_B'ALAM">íquíba<pc> –</pc>
 <lb n="35"/>lam</rs>; y juntos aguardaron a <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>á<pc> –</pc>
-<lb n="36"/>maneçíese sobre el çerro llamado
+<lb n="36"/>maneçíese sobre <rs ana="JAQAWITZ_JUYUB'">el çerro</rs> llamado
 <lb n="37"/><rs ana="JAQAWITZ_JUYUB'">hacauíꜩ</rs>. y auía poca dístancía de
 <lb n="38"/>a <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> estaban los ídolos de <rs ana="TAMUB'">tamub</rs>, y
 <lb n="39"/><rs ana="ILOKAB'">ílocab</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba <rs ana="AMAQ'_TAM">amactan</rs>, allí
@@ -9912,14 +9912,14 @@ cap.
 <lb n="10"/>nes. y luego se híçíeron píedra los
 <lb n="11"/>ídolos <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">aulíx</rs>, <rs ana="JAQAWITZ">hacauíꜩ</rs>, y tam<pc> –</pc>
 <lb n="12"/>bíen los ídolos de <rs ana="KOJ">el leon</rs>, <rs ana="B'ALAM">del tígre</rs>,
-<lb n="13"/>de <rs ana="SOCHOJ">la víuora</rs>, <rs ana="K'ANTI'">del cantí</rs>, y <rs ana="SAQIK'OXOL">del duen<pc> –</pc>
+<lb n="13"/>de <rs ana="SOCHOJ">la víuora</rs>, <rs ana="K'ANTI'">del cantí</rs>, y <rs ana="SAQI_K'OXOL">del duen<pc> –</pc>
 <lb n="14"/>de</rs>, y solo se agarraron de los palos
 <lb n="15"/>quando salío el sol, luna, y estrellas.
 <lb n="16"/>por todas partes se conuíertíeron en
 <lb n="17"/>píedras todos. quízas no estuuíeramos
 <lb n="18"/>empíe nosotros por los animales vora<pc> –</pc>
 <lb n="19"/>çes, y mordedores, <rs ana="KOJ">el leon</rs>, <rs ana="B'ALAM">tígre</rs>, <rs ana="SOCHOJ">ví<pc> –</pc>
-<lb n="20"/>uora</rs>, <rs ana="K'ANTI'">cantí</rs>. y <rs ana="SAQIK'OXOL">duendes</rs>. y nose híçíe<pc> –</pc>
+<lb n="20"/>uora</rs>, <rs ana="K'ANTI'">cantí</rs>. y <rs ana="SAQI_K'OXOL">duendes</rs>. y nose híçíe<pc> –</pc>
 <lb n="21"/>ron píedra quízas los prímeros aní<pc> –</pc>
 <lb n="22"/>males por el sol, y quando salío se
 <lb n="23"/>alegraron mucho en su corazon
@@ -11256,7 +11256,7 @@ cap.
 </p>
 <p corresp="#p86">
 <lb n="33"/>y agora díremos otra vez de el nom<pc> –</pc>
-<lb n="34"/>bre de <rs ana="NIMA'Q_TZ'AQ_TOJIL">la casa de el ídolo</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así mesmo
+<lb n="34"/>bre de la casa de el ídolo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así mesmo
 <lb n="35"/>sellamo su casa de el nombre de <rs ana="TOJIL">el ído<pc> –</pc>
 <lb n="36"/>lo</rs>. <rs ana="NIMA'Q_TZ'AQ_TOJIL">el grande edífíçío de el tohíl</rs>. fue
 <lb n="37"/>el nombre de <rs ana="NIMA'Q_TZ'AQ_TOJIL">el edífíçío de su casa
